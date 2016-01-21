@@ -14,6 +14,10 @@ class ReturnTest {
 		return a + b;
 	}
 
+	/*
+	 * result 배열은 result2 배열과 같은 주소를 가르킴
+	 * call by reference
+	 */
 	void add(int a, int b, int[] result) {
 		result[0] = a + b;
 	}
