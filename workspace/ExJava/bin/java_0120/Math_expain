@@ -1,0 +1,9 @@
+원하는 범위에서 정수형 난수 발생
+
+(int) (Math.random() * 원하는 범위)
+
+ex)
+
+(int) (Math.random()*45)
+
+0~44

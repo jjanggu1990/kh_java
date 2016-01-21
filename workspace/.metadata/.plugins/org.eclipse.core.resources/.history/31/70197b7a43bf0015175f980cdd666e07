@@ -1,0 +1,22 @@
+package java_0120;
+
+class _001IfEx {
+
+	public static void main(String[] args) {
+		//args : 인자, 인수, parameter, arguments
+		//전달되는 값
+		String [] tmp = args;
+		int a = 100;
+		String str;
+		
+		if(a >= 50){
+			str = "50이상";
+		}else {
+			str = "50미만";
+		}
+		
+		System.out.println(str);
+		System.out.println(tmp[0]);
+	}
+
+}

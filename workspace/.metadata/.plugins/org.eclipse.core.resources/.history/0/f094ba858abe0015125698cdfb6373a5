@@ -1,0 +1,32 @@
+package java_0119;
+
+class _003StringEx {
+	String s3;
+	public static void main(String [] args){
+		//java.lang.String : 문자열을 표현
+		//참조변수는 주소값을 저장함
+		
+		int i = 10;
+		String s = "문자열";
+		String s1 = " ";//공백도 문자열로 인식
+		String s2= "";//empty String (빈문자열) 초기화
+		
+		String s3 = "100";
+		// + 연산자는 String에 우선순위를 줌
+		// +를 제외한 모든 사칙연산 불가능
+		String s4 = 100 + s3;
+		
+		//String "7"
+		String s5 = "" +7;
+		//String " 7"
+		String s6 = " "+7;
+		//String "77"
+		String s7 = ""+7+7;
+		//String "14
+		String s8 = 7+7+"";
+	}
+	_003StringEx(){
+		System.out.println(s3);
+	}
+
+}

@@ -1,0 +1,18 @@
+package java_0119;
+
+class _003StringEx {
+	String s3;
+	public static void main(String [] args){
+		//java.lang.String : 문자열을 표현
+		//참조변수는 주소값을 저장함
+		
+		int i = 10;
+		String s = "문자열";
+		String s1 = " ";//공백도 문자열로 인식
+		String s2= "";//empty String (빈문자열) 초기화
+		String s3;
+		
+		System.out.println(s3);
+	}
+
+}

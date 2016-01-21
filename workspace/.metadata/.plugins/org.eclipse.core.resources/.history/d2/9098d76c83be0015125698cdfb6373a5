@@ -1,0 +1,17 @@
+package java_0119;
+
+class _002CastingEx {
+	public static void main (String [] args){
+		double d = 100;
+		int i = 100;
+		
+		double d2 = d+i;
+		
+		
+		System.out.println(d);
+		System.out.println(i);
+		System.out.println(d2);
+
+	}
+
+}

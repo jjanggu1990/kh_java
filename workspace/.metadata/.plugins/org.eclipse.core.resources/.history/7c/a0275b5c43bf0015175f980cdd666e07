@@ -1,0 +1,19 @@
+package java_0120;
+
+class _001IfEx {
+
+	public static void main(String[] args) {
+		
+		int a = 100;
+		String str;
+		
+		if(a >= 50){
+			str = "50이상";
+		}else {
+			str = "50미만";
+		}
+		
+		System.out.println(str);
+	}
+
+}

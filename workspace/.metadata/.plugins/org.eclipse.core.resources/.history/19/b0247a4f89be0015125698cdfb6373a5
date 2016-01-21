@@ -1,0 +1,14 @@
+package java_0119;
+
+class _003StringEx {
+	public static void main(String [] args){
+		//java.lang.String : 문자열을 표현
+		//참조변수는 주소값을 저장함
+		
+		int i = 10;
+		String s = "문자열";
+		System.out.println(s);
+		
+	}
+
+}
