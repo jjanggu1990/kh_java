@@ -11,7 +11,6 @@ class ParameterTest3 {
 		System.out.println("After change(x)");
 		System.out.println("main() : x[0] = " + x[0]);
 	}
-	
 	static void change(int [] x){
 		x[0]=1000;
 		System.out.println("change() : x[0] = "+x[0]);
