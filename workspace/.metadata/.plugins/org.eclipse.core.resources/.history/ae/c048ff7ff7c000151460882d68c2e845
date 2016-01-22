@@ -2,6 +2,7 @@ package java_0122;
 
 
 class ProductTest {
+	static int count = 0;
 
 	public static void main(String[] args) {
 		Product p1 = new Product();
@@ -19,7 +20,6 @@ class ProductTest {
 
 class Product{
 	int serialNo;
-	static int count = 0;
 	
 	{
 		++count;

@@ -18,9 +18,8 @@ class ProductTest {
 }
 
 class Product{
-	int serialNo;
 	static int count = 0;
-	
+	int serialNo;
 	{
 		++count;
 		serialNo = count;
