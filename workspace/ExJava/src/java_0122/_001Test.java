@@ -3,7 +3,16 @@ package java_0122;
 class _001Test {
 
 	public static void main(String[] args) {
+		//_001Test.add(1,2);
 
+	}
+	static int add (int a , long b){
+		System.out.println("첫 번재 add");
+		return 0;
+	}
+	static int add (long a , int b){
+		System.out.println("두 번재 add");
+		return 1;
 	}
 
 }
