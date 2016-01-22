@@ -1,0 +1,24 @@
+package java_0122;
+
+import org.omg.Messaging.SyncScopeHelper;
+
+class _007InitTest {
+	
+	int iv = 1;
+
+	static{ cv = 2;}
+	
+	static int cv = 1;
+	
+	{ iv = 2; }
+	
+	_007InitTest(){
+		iv = 3;
+	}
+
+	public static void main(String[] args) {
+		_007InitTest it = new _007InitTest();
+		System.out.println(it.iv);
+	}
+
+}

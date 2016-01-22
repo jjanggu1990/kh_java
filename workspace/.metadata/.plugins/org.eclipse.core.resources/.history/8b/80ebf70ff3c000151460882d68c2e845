@@ -1,0 +1,19 @@
+package java_0122;
+
+class _006BlockTest {
+	static {
+		System.out.println("static { }");
+	}
+	
+	_006BlockTest(){
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+

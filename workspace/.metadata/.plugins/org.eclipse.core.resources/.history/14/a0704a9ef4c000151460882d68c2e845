@@ -1,0 +1,22 @@
+package java_0122;
+
+class _007InitTest {
+	
+	int iv = 1;
+	
+	static{ cv = 2;}
+	
+	static int cv = 1;
+	
+	{ iv = 2; }
+	
+	_007InitTest(){
+		iv = 3;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
