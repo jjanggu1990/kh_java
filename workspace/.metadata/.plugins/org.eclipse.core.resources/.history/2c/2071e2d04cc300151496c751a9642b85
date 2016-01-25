@@ -1,0 +1,13 @@
+package java_0125;
+
+abstract class AbstractEx {
+
+	void move(){};
+	abstract int move1(int a);
+
+}
+
+
+abstract class A{
+	
+}

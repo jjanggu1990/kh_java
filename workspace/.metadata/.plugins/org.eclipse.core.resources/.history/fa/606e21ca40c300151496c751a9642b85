@@ -1,0 +1,11 @@
+package java_0125;
+
+class ImportEx {
+
+	public static void main(String[] args) {
+		java.util.Date da = new java.util.Date();
+		System.out.println(da.getTime());
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package java_0125;
+
+//import java.util.Date;
+
+class ImportEx {
+
+	public static void main(String[] args) {
+		java.util.Date da = new Date();
+
+	}
+
+}

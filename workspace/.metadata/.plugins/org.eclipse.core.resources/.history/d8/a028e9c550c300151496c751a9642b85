@@ -1,0 +1,13 @@
+package java_0125;
+
+class TimeTest {
+	public static void main(String [] args){
+		
+	}
+
+}
+
+
+class Time{
+	
+}

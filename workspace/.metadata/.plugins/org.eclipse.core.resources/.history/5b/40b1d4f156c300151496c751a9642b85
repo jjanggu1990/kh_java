@@ -1,0 +1,25 @@
+package java_0125;
+
+class GetterSetter {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+
+class g_s{
+	private int a;
+	private int b;
+	private String str;
+	@Override
+	public String toString() {
+		return "g_s [aasdfasdfsad=" + aasdfasdfsad + ", bdgsdgdsfg=" + bdgsdgdsfg + ", str=" + str + ", toString()="
+				+ super.toString() + "]";
+	}
+
+	
+	
+}

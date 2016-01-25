@@ -1,0 +1,36 @@
+package java_0125;
+
+class TimeTest {
+	public static void main(String [] args){
+		
+	}
+
+}
+
+
+class Time{
+	private int hour;
+	private int minute;
+	private int second;
+	
+	Time(int hour, int minute, int second){
+		setHour(hour);
+		setMinute(minute);
+		setSecond(second);
+	}
+	
+	public void setHour(int hour){
+		if(hour<0 || hour >24) return;
+		this.hour = hour;
+	}
+	public void setMinute(int minute){
+		if(minute<0 || minute >60) return;
+		this.minute = minute;
+	}
+	public void setSecond(int second){
+		if(second<0 || second >60) return;
+		this.second = second;
+	}
+	
+	
+}
