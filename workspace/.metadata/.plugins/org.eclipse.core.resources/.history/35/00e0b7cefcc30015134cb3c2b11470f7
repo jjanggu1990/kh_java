@@ -1,0 +1,13 @@
+package java_0126;
+
+import java.util.Calendar;
+import java.util.Date;
+
+class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Date a = new Date();
+	}
+
+}

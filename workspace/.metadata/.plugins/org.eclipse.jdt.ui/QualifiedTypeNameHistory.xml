@@ -5,4 +5,11 @@
 <fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
 <fullyQualifiedTypeName name="java.util.concurrent.SynchronousQueue"/>
 <fullyQualifiedTypeName name="java_0122.Document"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.sql.Time"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java_0125.Singleton"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
 </qualifiedTypeNameHistroy>

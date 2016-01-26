@@ -1,6 +1,6 @@
-package java_0125;
+package java_0126;
 
-public class Test {
+class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
