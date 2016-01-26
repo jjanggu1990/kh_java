@@ -22,6 +22,7 @@ class Product{
 	int bonuspoint;
 	
 	Product(int price){
+
 		this.price = price;
 		bonuspoint = (int)(price/10.0);
 	}
