@@ -1,0 +1,32 @@
+Object o = new String();
+모든 형태에 객체 저장 가능(Object 타입의 참조변수)
+단, Object의 멤버만 사용가능
+
+String 객체를 모두 사용 하고 싶으면 다운캐스팅 필요함.
+String s = (String)o;
+Object -> String  다운캐스팅이므로 형변환 명시 필요함
+
+
+
+Fire extends Car
+
+Fire fe = new Car();
+에러 발생!
+
+Car car = new Fire();
+문제없음
+
+Fire a = null;
+Car c = new Car();
+
+a = (Fire)c;
+위에 에러 발생과 같은 의미
+
+
+
+ Super s = new Sub();
+ 
+ s.x
+ 멤버변수는 참조변수의 타입을 따라감.
+ s.method();
+ 메소드는 실제 인스턴스를 따라감.

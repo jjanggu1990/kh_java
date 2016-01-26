@@ -1,0 +1,25 @@
+package java_0126;
+
+
+class Test {
+
+	public static void main(String[] args) {
+		animal a = new dog();
+		
+	}
+
+}
+class animal {
+	int a =0;
+	public int kunk(){
+		return 1;
+	}
+}
+
+class dog extends animal{
+	int b =0;
+	public int wal(){
+		return 2;
+		
+	}
+}

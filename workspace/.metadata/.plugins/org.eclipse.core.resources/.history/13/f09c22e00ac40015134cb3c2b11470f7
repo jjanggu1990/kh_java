@@ -1,0 +1,22 @@
+package java_0126;
+
+class PolyArgumentTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class Product{
+	int price;
+	int bonuspoint;
+	
+	Product(int price){
+		this.price = price;
+		bonuspoint = (int)(price/10.0);
+	}
+	
+	
+}

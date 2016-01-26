@@ -1,0 +1,17 @@
+package java_0126;
+
+class BindingTest {
+
+	public static void main(String[] args) {
+
+	}
+
+}
+
+
+class Parent{
+	int x = 100;
+	void method(){
+		System.out.println("Parent Method");
+	}
+}

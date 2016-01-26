@@ -1,0 +1,16 @@
+package java_0126;
+
+
+class Test {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
+class animal {
+	int a =0;
+	publicint kunk(){
+		int 1;
+	}
+}
