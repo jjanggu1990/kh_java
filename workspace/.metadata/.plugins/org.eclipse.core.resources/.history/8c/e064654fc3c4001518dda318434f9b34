@@ -1,0 +1,22 @@
+package java_0127;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JFrame;
+
+class Test extends JFrame implements ActionListener{
+	Test(){
+		super("test");
+	}
+	public static void main(String[] args) {
+		
+
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent arg0) {
+		
+	}
+
+}

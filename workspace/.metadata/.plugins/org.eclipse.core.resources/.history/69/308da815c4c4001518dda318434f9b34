@@ -1,0 +1,5 @@
+package java_0127;
+
+interface test_interface {
+
+}
