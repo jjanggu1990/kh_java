@@ -1,0 +1,11 @@
+package java_0127;
+
+class Test extends Test_1{
+	public static void main(String[] args) {
+		
+		
+	}
+
+}
+
+

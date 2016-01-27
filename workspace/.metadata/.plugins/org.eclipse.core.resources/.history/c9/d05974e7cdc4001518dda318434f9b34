@@ -1,0 +1,16 @@
+package java_0127;
+
+class Test extends Test_1{
+	public static void main(String[] args) {
+
+	}
+
+}
+
+
+class Test_1{
+	int  a =0;
+	void method(){
+		System.out.println("super");
+	}
+}

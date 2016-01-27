@@ -1,0 +1,20 @@
+package java_0127;
+
+class Test{
+	
+	int var;
+	
+	public void setInt(int var){
+		this.var = var;
+	}
+	public int getInt(){
+		return var;
+	}
+	public static void main(String[] args) {
+		
+		
+	}
+
+}
+
+

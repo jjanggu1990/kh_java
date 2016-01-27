@@ -1,0 +1,17 @@
+package java_0127;
+
+class Test{
+	
+	int var;
+	
+	public void setInt(int var){
+		var = var;
+	}
+	public static void main(String[] args) {
+		
+		
+	}
+
+}
+
+
