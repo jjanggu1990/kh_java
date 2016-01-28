@@ -1,0 +1,26 @@
+package java_0128;
+
+class Test extends T{
+	void m(int x,int y){
+		System.out.println("int x, int y");
+	}
+	
+	public static void main(String [] args){
+		Test x1 = new Test ();
+		System.out.println(m(1,2));
+
+		
+	}
+
+}
+
+
+
+class T{
+	int x ;
+	
+	public void m(int x){
+		System.out.println("int x");
+	}
+
+}
