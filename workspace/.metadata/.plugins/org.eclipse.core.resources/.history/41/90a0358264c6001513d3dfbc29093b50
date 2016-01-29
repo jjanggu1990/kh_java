@@ -1,0 +1,33 @@
+package java_0129;
+
+class ExceptionEx {
+
+	public static void main(String[] args) {
+		int[] i = { 10, 20, 30 };
+		
+		//ArrayIndexOutOfBoundsException 발생!!
+		for (int j = 0; j <= i.length; j++) {
+			try{
+				System.out.println(10/0);
+				System.out.println(j+1 +" 실행");
+				System.out.println("예외아님 : "+i[j]);
+				System.out.println(j+1 + "~~~~~~~~~");
+			}catch(Exception ae){
+				
+				//ae.printStackTrace();
+				if(ae.getClass().getSimpleName().equals("ArrayIndexOutOfBoundsException")){
+					System.out.println("범위 초과");
+				}
+				else if(ae.getClass().getSimpleName().equals(ArithmeticException)){
+					System.out.println("0으로 나눌 수  없습니다.");
+				}
+				else{
+					System.out.println("다른 에러: "+ae.getClass().getSimpleName());
+				}
+			}
+		}
+		System.out.println("program END");
+
+	}
+
+}

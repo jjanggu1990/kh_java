@@ -1,0 +1,19 @@
+package java_0129;
+
+class ExceptionEx2 {
+
+	public static void main(String[] args) {
+		
+		try{
+			int data = Integer.parseInt(args[0]);
+			System.out.println(50/data);
+		}catch(NumberFormatException ne){
+			System.out.println("숫자가 아니다");
+		}catch(ArrayIndexOutOfBoundsException ae){
+			
+		}catch(ArithmeticException ae2){
+			
+		}
+	}
+
+}

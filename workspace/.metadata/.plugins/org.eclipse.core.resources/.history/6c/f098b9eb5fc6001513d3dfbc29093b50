@@ -1,0 +1,12 @@
+package java_0129;
+
+import java.io.IOException;
+
+class ExceptionEx {
+
+	public static void main(String[] args) {
+		throw new IOException();
+
+	}
+
+}

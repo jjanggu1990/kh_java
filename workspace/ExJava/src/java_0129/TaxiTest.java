@@ -1,0 +1,16 @@
+package java_0129;
+
+class TaxiTest {
+
+	public static void main(String[] args) {
+		Taxi t = new Taxi("서울택시");
+		t.setFare();
+		t.speedUp();
+		t.speedUp();
+		t.account();
+		
+		System.out.println(t);
+
+	}
+
+}

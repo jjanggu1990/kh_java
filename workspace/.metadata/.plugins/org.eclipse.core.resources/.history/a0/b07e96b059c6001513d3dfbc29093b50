@@ -1,0 +1,7 @@
+package java_0129;
+
+class Taxi extends Car {
+	int charge;
+	boolean fare;
+	String company;
+}

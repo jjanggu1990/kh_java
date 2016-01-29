@@ -1,0 +1,11 @@
+package java_0129;
+
+class ExceptionEx2 {
+
+	public static void main(String[] args) {
+		int date = Integer.parseInt(args[0]);
+		int date1 = Integer.parseInt(args[1]);
+
+	}
+
+}
