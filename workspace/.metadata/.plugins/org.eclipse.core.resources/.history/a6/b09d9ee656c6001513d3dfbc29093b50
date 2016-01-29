@@ -22,3 +22,7 @@ class T{
 	}
 
 }
+
+interface INTE_FACE{
+	abstract void method1(int a);
+}

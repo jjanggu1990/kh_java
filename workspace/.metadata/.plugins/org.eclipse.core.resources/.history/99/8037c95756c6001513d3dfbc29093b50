@@ -4,6 +4,9 @@ class Test extends T{
 	void m(int x){
 		System.out.println("int x, int y");
 	}
+	int Test(){
+		
+	}
 	public static void main(String [] args){
 		Test x1 = new Test ();
 

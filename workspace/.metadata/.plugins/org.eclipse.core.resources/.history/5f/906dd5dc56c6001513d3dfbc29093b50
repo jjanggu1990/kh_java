@@ -22,3 +22,7 @@ class T{
 	}
 
 }
+
+interface INTE_FACE{
+	final abstract void method();
+}
