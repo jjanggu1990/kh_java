@@ -1,0 +1,14 @@
+
+class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		B();
+	}
+	public static void B(){
+		A();
+	}
+	public static void A()throws ArithmeticException{
+		int a = 10/0;
+	}
+}

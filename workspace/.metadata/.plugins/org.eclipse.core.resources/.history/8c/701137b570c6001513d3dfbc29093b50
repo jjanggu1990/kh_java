@@ -1,0 +1,17 @@
+package java_0129;
+
+class ThrowEx1 {
+	public void methodA(String [] n) throws Exception{
+		if(n.length>0){
+			for(String s : n){
+				System.out.println(s);
+			}
+		}
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
