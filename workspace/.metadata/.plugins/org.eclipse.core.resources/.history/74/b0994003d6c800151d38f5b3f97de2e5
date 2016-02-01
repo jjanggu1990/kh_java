@@ -1,0 +1,39 @@
+package java_0201;
+
+import java.util.Timer;
+
+class Test {
+
+	public static void main(String[] args) {
+//		String a = new String ("abcas");
+//		String b = new String ("abcas");
+//		System.out.println(a.hashCode());
+//		System.out.println(b.hashCode());
+//		String c = "abcbc";
+//		String d = "abcbc";
+//		System.out.println(c.hashCode());
+//		System.out.println(d.hashCode());
+//		
+//		
+//		String a1 = null;
+//		System.out.println(a1);
+//		System.out.println(a1+1);
+//
+		int [] arr = new int [10];
+		for(int j = 0;j<10;j++){
+			long a = System.currentTimeMillis();
+			for(int i = 0 ; i<100000000;i++){
+
+				Integer.toString(i);
+				//String str = String.valueOf(i);
+			}
+			long b = System.currentTimeMillis();
+		}
+		System.out.println(b-a);
+//		String.valueOf(1);
+//		Integer.toString(1);
+		
+		
+	}
+
+}
