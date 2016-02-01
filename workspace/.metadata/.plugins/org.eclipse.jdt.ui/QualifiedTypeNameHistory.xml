@@ -14,4 +14,8 @@
 <fullyQualifiedTypeName name="java_0126.Animal"/>
 <fullyQualifiedTypeName name="java_0126.FireEngine"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java_0129.UserException"/>
 </qualifiedTypeNameHistroy>

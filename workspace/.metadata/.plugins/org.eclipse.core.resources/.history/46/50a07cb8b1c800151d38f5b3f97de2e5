@@ -1,0 +1,18 @@
+package java_0201;
+
+class EqualsEx1 {
+
+	public static void main(String[] args) {
+		Value v1 = new Value(10);
+
+	}
+
+}
+
+
+class Value{
+	int a;
+	Value(int a){
+		this.a = a;
+	}
+}
