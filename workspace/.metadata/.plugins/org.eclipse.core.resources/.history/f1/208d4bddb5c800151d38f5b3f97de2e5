@@ -1,0 +1,27 @@
+package java_0201;
+
+class EqualsEx2 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
+
+
+class Person{
+	int id ;
+	Person(int id){
+		this.id = id;
+	}
+	
+	public boolean equals(Object obj){
+		if(obj != null && obj instanceof Person){
+			return id == ((Person)obj).id;
+		}
+		
+		
+		return false;
+	}
+}

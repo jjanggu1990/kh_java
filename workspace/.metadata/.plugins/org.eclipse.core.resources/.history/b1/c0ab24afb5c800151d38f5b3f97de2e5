@@ -1,0 +1,18 @@
+package java_0201;
+
+class EqualsEx2 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
+
+
+class Person{
+	int id ;
+	Person(int id){
+		this.id = id;
+	}
+}
