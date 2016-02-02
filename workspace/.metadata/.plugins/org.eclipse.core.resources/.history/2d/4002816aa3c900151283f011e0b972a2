@@ -1,0 +1,24 @@
+package java_0202;
+
+import java.awt.*;
+import java.awt.event.*;
+
+class InnerEx7 implements ActionListener
+{
+	public static void main(String[] args) 
+	{
+		Frame fr = new Frame("test");
+		fr.setBounds(500,500,200,100);
+		Button b = new Button("Start");
+		b.addActionListener(new EventHandler());
+		fr.add(b);
+		fr.setVisible(true);
+	}
+}
+
+class EventHandler implements ActionListener
+{
+	public void actionPerformed(ActionEvent e) {
+		System.out.println("ActionEvent occurred!!!");
+	}
+}
