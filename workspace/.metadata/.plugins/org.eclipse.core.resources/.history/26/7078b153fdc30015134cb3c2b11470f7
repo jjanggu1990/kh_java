@@ -1,6 +1,0 @@
-Object o = new String();
-모든 형태에 객체 저장 가능(Object)
-
-String s = (String)o;
-Object -> String  다운캐스팅이므로 형변환 명시 필요함
-

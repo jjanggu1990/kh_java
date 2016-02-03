@@ -13,7 +13,6 @@
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="java_0126.Animal"/>
 <fullyQualifiedTypeName name="java_0126.FireEngine"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
 <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
 <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
@@ -21,4 +20,14 @@
 <fullyQualifiedTypeName name="java.lang.Cloneable"/>
 <fullyQualifiedTypeName name="java.util.Timer"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+<fullyQualifiedTypeName name="java_0202.StringTokenizerEx1"/>
+<fullyQualifiedTypeName name="java_0202.MemberInner.Inner"/>
+<fullyQualifiedTypeName name="java_0202.MemberInner"/>
+<fullyQualifiedTypeName name="java_0202.StaticInner.Inner"/>
+<fullyQualifiedTypeName name="java_0202.AnonyInner1"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.awt.event.MouseListener"/>
+<fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
 </qualifiedTypeNameHistroy>
