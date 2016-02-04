@@ -1,8 +1,0 @@
-interface 
-
-1.class와 동급
-2.선언
-	class 이름 { member 선언}
-	interface 이름 {member 선언}
-	
-	interface 도 public 과 default 만 붙일 수 있음.
