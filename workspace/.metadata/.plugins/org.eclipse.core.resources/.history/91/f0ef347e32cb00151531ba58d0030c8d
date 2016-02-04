@@ -1,0 +1,14 @@
+package java_0204;
+
+class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String a = "B533";
+		String b = "G430";
+		
+		System.out.println(a.hashCode()+"  "+b.hashCode());
+
+	}
+
+}

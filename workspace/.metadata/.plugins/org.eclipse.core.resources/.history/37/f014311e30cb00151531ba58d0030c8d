@@ -1,0 +1,31 @@
+package java_0204;
+
+class AbleEx1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class Able {
+	String empno;
+	int net, ejb, xml, total;
+
+	public Able(int total) { // Constructor
+		this.total = total;
+	}
+
+	public Able(String no, int n, int e, int x) { // Constructor
+		empno = no;
+		net = n;
+		ejb = e;
+		xml = x;
+		total = n + e + x;
+	}
+
+	public int getTotal() {
+		return total;
+	}
+}

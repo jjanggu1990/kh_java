@@ -1,0 +1,16 @@
+package java_0204;
+
+class ArraysEx2 {
+
+	public static void main(String[] args) {
+
+		String[] ar1 = { "fill()", "in", "the", "Arrays" };
+		String[] ar2 = { "fill()", "in", "", "Arrays" };
+		
+		if(!Arrays.equals(ar1,ar2)){
+			
+		}
+
+	}
+
+}

@@ -2,15 +2,11 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java_0122._006BlockTest"/>
 <fullyQualifiedTypeName name="java_0122._007InitTest"/>
-<fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
-<fullyQualifiedTypeName name="java.util.concurrent.SynchronousQueue"/>
 <fullyQualifiedTypeName name="java_0122.Document"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="java.sql.Time"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="java_0125.Singleton"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
-<fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="java_0126.Animal"/>
 <fullyQualifiedTypeName name="java_0126.FireEngine"/>
 <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
@@ -19,7 +15,6 @@
 <fullyQualifiedTypeName name="java_0129.UserException"/>
 <fullyQualifiedTypeName name="java.lang.Cloneable"/>
 <fullyQualifiedTypeName name="java.util.Timer"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
 <fullyQualifiedTypeName name="java_0202.StringTokenizerEx1"/>
 <fullyQualifiedTypeName name="java_0202.MemberInner.Inner"/>
@@ -35,4 +30,13 @@
 <fullyQualifiedTypeName name="java.util.HashSet"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="java.util.TreeSet"/>
+<fullyQualifiedTypeName name="java.util.concurrent.SynchronousQueue"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java_0204.PropertiesEx4"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.security.Timestamp"/>
 </qualifiedTypeNameHistroy>

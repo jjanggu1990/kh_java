@@ -1,0 +1,25 @@
+package java_0204;
+
+import java.util.Arrays;
+
+class ArraysEx1 {
+
+	public static void main(String[] args) {
+		
+		String [] ar = {"fill()", "in", "the","Arrays"};
+		
+		Arrays.fill(ar, "Sun");
+
+		for(String n : ar){
+			System.out.println(n+", ");
+		}
+		System.out.println("\n-------------------------------------");
+		
+		Arrays.fill(ar, 1,3,"§Ù");
+		
+		for(String n : ar){
+			System.out.println(n+", ");
+		}
+	}
+
+}
