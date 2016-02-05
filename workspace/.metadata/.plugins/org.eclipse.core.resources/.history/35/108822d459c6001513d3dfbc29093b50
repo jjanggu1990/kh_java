@@ -1,7 +1,0 @@
-package java_0129;
-
-class Taxi extends Car {
-	int charge;
-	boolean fare; //true 이면 할증
-	String company;
-}

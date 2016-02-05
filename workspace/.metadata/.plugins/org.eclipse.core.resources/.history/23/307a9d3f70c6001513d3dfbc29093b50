@@ -1,9 +1,0 @@
-try{}
-catch(ArrayIndexOutOfBoundsException ae){}
-catch(Exception e){}
-finally{}
-finally 무조건 실행
-
-
-throws : 예외 되던지기
-예외가 발생한 메소드를 호출한 곳으로 예외 객체를 보낸다.

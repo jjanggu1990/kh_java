@@ -5,15 +5,15 @@ class ATM implements Runnable {
 
 	public void run() {
 		synchronized (this) {
-			for (int i = 0; i < 10; i++) {
+			for (int i = 0; true; i++) {
 				try {
-					Thread.sleep(100);
+					Thread.sleep(200);
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
 				if (getDepositeMoney() <= 0)
 					break;
-				withDraw(500);
+				withDraw(1000);
 			}
 		}
 	}
