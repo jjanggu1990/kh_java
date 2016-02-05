@@ -1,0 +1,46 @@
+package java_0205;
+
+class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		A a = new A();
+		B b = new B();
+		C c = new C();
+		Thread th = new Thread(a);
+	}
+
+}
+
+
+class A implements Runnable{
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		for(int i = 0; i< 10;i++){
+			System.out.println("A : "+i);
+		}
+		
+	}
+	
+}
+
+class B implements Runnable{
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		for(int i = 0; i< 10;i++){
+			System.out.println("B : "+i);
+		}
+	}
+}
+
+class C implements Runnable{
+	public void run() {
+		// TODO Auto-generated constructor stub
+		for(int i = 0; i< 10;i++){
+			System.out.println("C : "+i);
+		}
+	}
+}
