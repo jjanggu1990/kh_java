@@ -1,1 +1,3 @@
-a
+Dialog는 어느 Frame 에 연결된 건지 잘 보고 쓴다.
+
+Dialog d = new Dialog(this, "이름");
