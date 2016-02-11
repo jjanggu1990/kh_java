@@ -1,6 +1,6 @@
-package java_0129;
+package java_0211;
 
-class ExceptionEx23 {
+class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

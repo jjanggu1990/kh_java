@@ -1,6 +1,6 @@
 package java_0205.thread; 
 
-public class ProducerCustomerEx{  
+class ProducerCustomerEx{  
     public static void main(String[] args){ 
         Car c = new Car();      
         Producer producer = new Producer(c);         
