@@ -1,0 +1,11 @@
+package java_0211;
+
+import java.awt.event.ActionListener;
+
+class Test extends JFrame implements ActionListener{
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,37 @@
+package java_0211;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.*;
+
+class Test extends JFrame implements ActionListener{
+	
+	JTextField tf;
+	JButton bt []  =  new JButton [30];
+	
+	
+	Test(){
+		for(int i =0;i<10; i++){
+			bt[i] = new JButton(i+"");
+		}
+		bt[10] = new JButton("C");
+		bt[11] = new JButton("+");
+		bt[12] = new JButton("-");
+		bt[13] = new JButton("*");
+		bt[14] = new JButton("/");
+		bt[15] = new JButton("C");
+		setBounds(500,500 , 300,400);
+		setVisible(true);
+	}
+	public static void main(String[] args) {
+		new Test();
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
