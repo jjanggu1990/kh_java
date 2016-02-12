@@ -1,0 +1,14 @@
+package java_0212;
+
+import java.awt.event.ActionListener;
+
+import javax.swing.*;
+
+
+class NotePad extends JFrame implements ActionListener{
+
+	public static void main(String[] args) {
+
+	}
+
+}

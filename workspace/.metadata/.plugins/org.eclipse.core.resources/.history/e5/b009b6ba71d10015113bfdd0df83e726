@@ -1,0 +1,33 @@
+package java_0212;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
+import java.awt.event.WindowListener;
+
+import javax.swing.*;
+
+
+class NotePad extends JFrame implements ActionListener{
+	NotePad(){
+		setBounds(100,100,300,500);
+		setVisible(true);
+		addWindowListener(new WindowAdapter() {
+			@Override
+			public void windowClosing(WindowEvent e) {
+				JOptionPane a = new JOptionPane();
+				a.setMessage("asdf");
+			}
+		});
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent arg0) {
+		
+	}
+
+	public static void main(String[] args) {
+		new NotePad();
+	}
+}

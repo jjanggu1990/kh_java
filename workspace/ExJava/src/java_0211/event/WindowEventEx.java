@@ -12,8 +12,9 @@ class WindowEventEx extends Frame implements WindowListener{
 
 		setBounds(300,300,200,200);
 		setVisible(true);
-
-		addWindowListener(this);
+		
+		addWindowListener(new WindowEventHandler1());
+		//addWindowListener(this);
 	}
 
 	public static void main(String[] args){
@@ -30,4 +31,13 @@ class WindowEventEx extends Frame implements WindowListener{
 	public void windowDeiconified(WindowEvent e){}
 	public void windowIconified(WindowEvent e){}
 	public void windowOpened(WindowEvent e){}
+}
+
+
+class WindowEventHandler1 extends WindowAdapter{
+	@Override
+	public void windowClosing(WindowEvent e){
+		System.exit(0);
+	}
+	
 }

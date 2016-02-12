@@ -1,0 +1,19 @@
+package java_0212;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.border.*;
+
+class Test extends JFrame{
+	JButton btn;
+	border bor = new EmptyBorder(0);
+	Test(){
+		btn = new JButton("Border");
+		btn.setBorder();
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

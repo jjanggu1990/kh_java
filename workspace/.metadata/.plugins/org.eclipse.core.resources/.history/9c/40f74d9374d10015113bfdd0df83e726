@@ -1,0 +1,93 @@
+package java_0212;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
+
+import javax.swing.*;
+
+
+class NotePad extends JFrame implements ActionListener{
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	JMenuBar jmenubar;
+	JMenu jmenu_file, jmenu_edit, jmenu_help;
+	JMenuItem jmenuitem_newfile,jmenuitem_open,jmenuitem_save,jmenuitem_exit,
+	jmenuitem_cut, jmenuitem_copy,jmenuitem_paste,jmenuitem_selectall,jmenuitem_delete;
+	JPanel jpanel;
+	JTextArea jtextarea;
+	
+	NotePad(){
+		
+		jmenubar = new JMenuBar();
+		
+
+		jmenu_file = new JMenu("파일");
+		jmenu_edit = new JMenu("편집");
+		jmenu_help = new JMenu("도움말");
+		
+		jmenuitem_newfile = new JMenuItem("새파일");
+		jmenuitem_open = new JMenuItem("열기");
+		jmenuitem_save = new JMenuItem("저장");
+		jmenuitem_exit = new JMenuItem("종료");
+		jmenuitem_cut = new JMenuItem("잘라내기");
+		jmenuitem_copy = new JMenuItem("복사하기");
+		jmenuitem_paste = new JMenuItem("붙여넣기");
+		jmenuitem_selectall = new JMenuItem("전체선택");
+		jmenuitem_delete = new JMenuItem("삭제");
+		
+		jmenu_file.add(jmenuitem_newfile);
+		jmenu_file.add(jmenuitem_open);
+		jmenu_file.add(jmenuitem_save);
+		jmenu_file.add(jmenuitem_exit);
+		
+		jmenu_edit.add(jmenuitem_cut);
+		jmenu_edit.add(jmenuitem_copy);
+		jmenu_edit.add(jmenuitem_paste);
+		jmenu_edit.add(jmenuitem_selectall);
+		jmenu_edit.add(jmenuitem_delete);
+		
+		jmenubar.add(jmenu_file);
+		jmenubar.add(jmenu_edit);
+		jmenubar.add(jmenu_help);
+		
+		jpanel.add(jmenubar);
+		
+		add(jpanel);
+		
+		
+		
+		setBounds(100,100,300,500);
+		setVisible(true);
+		setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
+		addWindowListener(new WindowAdapter() {
+			@Override
+			public void windowClosing(WindowEvent e) {
+				// TODO Auto-generated method stub
+				super.windowClosing(e);
+				int i =JOptionPane.showConfirmDialog(null,"저장하시겠습니까?", "저장 및 종료",JOptionPane.OK_CANCEL_OPTION,JOptionPane.INFORMATION_MESSAGE);
+				if(i == 0){
+					System.exit(0);
+//					System.out.println("확인");
+					
+				}
+				else{
+//					System.out.println("취소");
+				}
+			}
+		});
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent arg0) {
+		
+	}
+
+	public static void main(String[] args) {
+		new NotePad();
+	}
+}
