@@ -1,6 +1,0 @@
-StringBuffer 버퍼가 찰때까지 저장할 수 있으며, append로 말미에 문자열 추가 가능
-			insert 메서드를 통해 두개의 매개변수로 해당 인덱스에 문자를 추가 할 수 있다.
-
-문자열 수정이 목적
-
-String -> new StringBuffer(String) 만들어 놓고, toString으로 변환해서 사용.
