@@ -1,0 +1,14 @@
+package java_0215;
+
+import java.util.Scanner;
+
+class ScannerConsoleEx {
+
+	public static void main(String[] args) {
+		System.out.println("ют╥б : ");
+		Scanner scan = new Scanner(System.in;
+		
+
+	}
+
+}

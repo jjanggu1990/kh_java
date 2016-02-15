@@ -1,11 +1,10 @@
 package java_0215;
 
-import java.io.File;
+import java.io.*;
 class Test {
 
-	public static void main(String[] args) {
-		File a = new File("F:\\asdf.txt");
-		System.out.println(a.getAbsolutePath());
+	public static void main(String[] args)throws IOException {
+		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 	}
 
 }
