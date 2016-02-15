@@ -1,0 +1,29 @@
+package day0215;
+
+import java.io.*;
+public class FileOutputStreamEx{
+	public static void main(String arg[])
+	throws FileNotFoundException,IOException{
+		FileOutputStream fos = null; 	
+		try{
+			
+			//fos = new FileOutputStream("c:\\fileout.txt");
+		  fos = new FileOutputStream("c:\\fileout.txt",true);
+			
+		  
+		  String message = "Hello FileOutputStream!!";
+			fos.write(message.getBytes());
+			fos.close(); 	
+		}catch(FileNotFoundException fnfe){
+			fnfe.printStackTrace();
+		}catch(IOException ie){
+			ie.printStackTrace();
+		}finally{
+			try{
+				if(fos != null) fos.close();
+			}catch(IOException ioe){
+				ioe.printStackTrace();
+			}
+		}
+ 	}
+ }
