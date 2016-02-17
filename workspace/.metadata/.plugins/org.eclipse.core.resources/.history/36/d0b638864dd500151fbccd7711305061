@@ -3,8 +3,6 @@ package java_0216;
 import java.io.*;
 import java.net.*;
 import java.util.*;
-
-import javax.swing.plaf.synth.SynthScrollBarUI;
 public class MultiServer { 
 	private ArrayList<MultiServerThread> list; //Thread만 담을 수 있는 리스트 선언 
 	private Socket socket; 
@@ -16,7 +14,7 @@ public class MultiServer {
 		
 		while(!isStop) {   
 			System.out.println("Server ready...");   
-			socket = serverSocket.accept();
+			socket = serverSocket.accept();   
 			mst = new MultiServerThread(this);   
 			list.add(mst); //리스트에 Thread를 추가시킨다   
 			Thread t = new Thread(mst);   
