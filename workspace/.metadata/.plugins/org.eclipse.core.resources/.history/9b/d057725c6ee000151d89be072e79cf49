@@ -55,8 +55,7 @@ public class BatchInsertEx {
 				String password = rs.getString("password"); 
 				System.out.println("id : " + id + 
 						" , password : "+password); 
-			}
-//			stmt.executeQuery("drop table test4");
+			} 
 		}catch(SQLException sqle) { 
 			sqle.printStackTrace();
 

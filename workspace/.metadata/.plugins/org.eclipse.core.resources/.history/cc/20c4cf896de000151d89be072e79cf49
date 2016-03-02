@@ -38,7 +38,7 @@ public class jdbcEx {
 			updateCount = stmt.executeUpdate(sb.toString());
 			System.out.println("Updatecount : " + updateCount);
 			sb.setLength(0);
-			sb.append("select * from test1");    
+			sb.append("select * from test1");
 			rs = stmt.executeQuery(sb.toString());
 			while(rs.next()){
 				System.out.print("id : " + rs.getString(1)+ " , ");

@@ -41,22 +41,28 @@ public class BatchInsertEx {
 					"VALUES('abc3033', '3333')"); 
 			stmt.addBatch("INSERT INTO test4 " + 
 					"VALUES('abc4044', '4444')"); 
-			
-
 			int [] updateCounts = stmt.executeBatch(); 
-			commit = true; 
-			con.commit(); 
-			con.setAutoCommit(commit); 
-
-			rs = stmt.executeQuery("SELECT * FROM test4"); 
-
 			while (rs.next()) { 
 				String id = rs.getString("id"); 
 				String password = rs.getString("password"); 
 				System.out.println("id : " + id + 
 						" , password : "+password); 
-			}
-//			stmt.executeQuery("drop table test4");
+			} 
+			throw new SQLException(); 
+
+//			int [] updateCounts = stmt.executeBatch(); 
+//			commit = true; 
+//			con.commit(); 
+//			con.setAutoCommit(commit); 
+//
+//			rs = stmt.executeQuery("SELECT * FROM test4"); 
+//
+//			while (rs.next()) { 
+//				String id = rs.getString("id"); 
+//				String password = rs.getString("password"); 
+//				System.out.println("id : " + id + 
+//						" , password : "+password); 
+//			} 
 		}catch(SQLException sqle) { 
 			sqle.printStackTrace();
 
