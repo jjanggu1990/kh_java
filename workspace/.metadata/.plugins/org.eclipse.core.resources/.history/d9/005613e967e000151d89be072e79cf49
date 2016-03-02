@@ -1,0 +1,13 @@
+package dbEX;
+import java.sql.*;
+
+public class jdbcEx {
+	static {
+		try{
+			Class.forName("oracle.jdbc.driver.OracleDriver");
+		}
+		catch( ClassNotFoundException e){
+			
+		}
+	}
+}
