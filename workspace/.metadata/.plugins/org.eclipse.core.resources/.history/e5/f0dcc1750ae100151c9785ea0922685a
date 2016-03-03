@@ -540,10 +540,10 @@ public class DataBase extends JFrame implements ActionListener{
 		
 		if(e.getActionCommand().equals("transaction1")){
 			try{
-				String sql="select * from emp";
-//						"SELECT distinct e.e_name,e.department,e.join_date,dl.night_work,dl.abroad_work,p.basepayment "+
-//				"FROM employee e,deligence_lazy dl,payment p WHERE e.e_number=dl.e_number AND e.e_paystep=dl.dl_paystep "+
-//								"AND e.e_rank=dl.dl_rank AND department=\'개발\' AND p.basepayment>6000000";
+				String sql=
+						"SELECT distinct e.e_name,e.department,e.join_date,dl.night_work,dl.abroad_work,p.basepayment "+
+				"FROM employee e,deligence_lazy dl,payment p WHERE e.e_number=dl.e_number AND e.e_paystep=dl.dl_paystep "+
+								"AND e.e_rank=dl.dl_rank AND department=\'개발\' AND p.basepayment>6000000";
 				rs=st.executeQuery(sql);
 
 				ResultSetMetaData rsMetaData = rs.getMetaData();

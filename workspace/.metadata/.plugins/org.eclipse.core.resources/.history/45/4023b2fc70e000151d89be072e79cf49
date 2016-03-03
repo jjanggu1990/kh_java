@@ -10,7 +10,8 @@ import oracle.jdbc.driver.OracleDriver;
 public class PreparedStatementEx {
 	static {
 		try {
-			Class.forName("oracle.jdbc.driver.OracleDriver");
+			//Class.forName("oracle.jdbc.driver.OracleDriver");
+			new OracleDriver();
 		} catch (ClassNotFoundException cnfe) {
 			cnfe.printStackTrace();
 		}
