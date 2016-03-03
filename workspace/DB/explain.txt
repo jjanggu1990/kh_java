@@ -1,0 +1,10 @@
+String resource = "xml 파일 경로";
+
+//스트림 연결
+Reader reader = Resources.getResourceAsReader(resource);
+
+//SqlSessionFactory 객체 생성
+SqlSessionFactory sqlMapper = new SqlSessionFactoryBuilder().build(reader);
+
+//SqlSession 객체 생성
+SqlSession session = sqlMapper.openSession();
