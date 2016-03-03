@@ -19,6 +19,7 @@ public class PerformanceEx {
 		PreparedStatement pstmt = null;
 		Statement stmt = null;
 		Statement stmt2 = null;
+		String sql2;
 		try {
 			con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe", "scott", "tiger");
 			stmt = con.createStatement();

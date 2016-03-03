@@ -25,11 +25,11 @@ public class CallableStatementDemo {
 			cstmt.setString(1, "abc1011");
 			cstmt.setFloat(2, 0.3f);
 			cstmt.executeUpdate();
-			stmt = con.createStatement();
+			stmt = con.getConnection();
 			rs = stmt.executeQuery("select * from salary");
 			
 			while(rs.next()){
-				for(int i=1;i<=rs.getMetaData().getColumnCount();i++){
+				for(int i=1;i<rs.getMetaData().getColumnCount();i++){
 					System.out.print(rs.getString(i)+"   ");
 				}System.out.println();
 			}

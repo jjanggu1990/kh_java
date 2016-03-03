@@ -36,7 +36,9 @@ public final class ConnectionPool {
 		try {
 			if (cp == null) {
 				synchronized (ConnectionPool.class) {
-					cp = new ConnectionPool(url, user, password, initialCons, maxCons);
+					cp = new ConnectionPool(url, user,
+
+							password, initialCons, maxCons);
 
 				}
 			}
