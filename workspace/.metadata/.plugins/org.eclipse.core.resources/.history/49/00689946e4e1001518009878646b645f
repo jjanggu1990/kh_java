@@ -1,0 +1,14 @@
+package member;
+
+import java.io.*;
+
+import org.apache.ibatis.io.Resources;
+public class test {
+
+	public static void main(String[] args) throws IOException{
+		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+		
+		InputStream is  = Resources.getResourceAsStream("info.config.xml");
+	}
+
+}

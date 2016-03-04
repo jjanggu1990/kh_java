@@ -22,8 +22,20 @@ public class TestMain {
 		
 			MembersVo vo = new MembersVo("batis1", "1111", "batis@co.kr", "010",null);
 
+			//member 는 memberMapper.xml 파일 안에 네임 스페이스
+			//n 은 변경된 레코드의 갯수
 			int n = session.insert("member.add", vo);
 
+			vo = new MembersVo("batis2", "2222", "batis@co.kr", "010",null);
+			n = session.insert("member.add", vo);
+			
+			vo = new MembersVo("batis3", "3333", "batis@co.kr", "010",null);
+			n = session.insert("member.add", vo);
+			
+			vo = new MembersVo("batis4", "4444", "batis@co.kr", "010",null);
+			n = session.insert("member.add", vo);
+			
+			//변경 된 레코드가 있다.
 			if (n > 0) {
 
 				session.commit();

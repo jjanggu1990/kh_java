@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="member">
+
+	<insert id="add" parameterType="member.User">
+		insert into login_info
+		values(#{id},#{pwd},#{name})
+	</insert>
+	<select id = "login" parameterType = "member.User" resultType="String">
+		select pwd from login_info where id = #{id}
+	</select>
+	<update id = "name_modi" parameter Type = "member.User">
+		update login_info set name = #{name} where id = #{id} and name = #{name}
+	</update>
+
+</mapper>
