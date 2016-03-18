@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>galleryEx1</title>
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<style type="text/css">
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+	background: black;
+}
+
+#container {
+	width: 1000px;
+	margin: 20px auto;
+}
+
+#navi {
+	width: 300px;
+	float: left;
+}
+
+#navi ul {
+	height: 460px;
+}
+
+#navi li {
+	list-style-type: none;
+	width: 150px;
+	float: left;
+}
+
+#navi li img {
+	border: 3px solid white;
+}
+
+#navi {
+	overflow: hidden;
+}
+
+#navi .pageWrap {
+	width: 900px;
+}
+
+#navi .pageWrap .page {
+	width: 300px;
+	float: left;
+}
+
+#navi p {
+	clear: both;
+	width: 300px;
+	padding: 10px 0;
+	text-align: center;
+}
+
+#navi p img {
+	cursor: pointer;
+}
+
+#main {
+	width: 650px;
+	float: right;
+}
+
+#main img {
+	position: absolute;
+	border: 3px solid white;
+}
+</style>
+<script>
+	$(function() {
+		$("#navi a").click(
+				function() {
+					$("#main img").before(
+							"<img src='" + $(this).attr("href") + "' alt=''>");
+					$("#main img:last").fadeOut("fast", function() {
+						$(this).remove();
+					});
+					return false;
+				})
+		$("img.next").click(
+				function() {
+					$("#navi .pageWrap").animate(
+							{
+								marginLeft : parseInt($("#navi .pageWrap").css(
+										"margin-left"))
+										- 300 + "px"
+							}, "fast");
+				});
+		$("img.prev").click(
+				function() {
+					$("#navi .pageWrap").animate(
+							{
+								marginLeft : parseInt($("#navi .pageWrap").css(
+										"margin-left"))
+										+ 300 + "px"
+							}, "fast");
+				});
+	});
+</script>
+</head>
+<body>
+	<div id="container">
+		<div id="navi">
+			<div class="pageWrap">
+				<div class="page">
+					<ul>
+
+						<li><a href="galleryEx/photo1.jpg"><img
+								src="galleryEx/photo1_thum.jpg" alt="¼§Á¦¸®¾Æ" /></a></li>
+						<li><a href="galleryEx/photo2.jpg"><img
+								src="galleryEx/photo2_thum.jpg" alt="Àå¹Ì" /></a></li>
+						<li><a href="galleryEx/photo3.jpg"><img
+								src="galleryEx/photo3_thum.jpg" alt="¹Ù´Ù" /></a></li>
+						<li><a href="galleryEx/photo4.jpg"><img
+								src="galleryEx/photo4_thum.jpg" alt="¹®" /></a></li>
+						<li><a href="galleryEx/photo5.jpg"><img
+								src="galleryEx/photo5_thum.jpg" alt="¹Ù´Ù" /></a></li>
+						<li><a href="galleryEx/photo6.jpg"><img
+								src="galleryEx/photo6_thum.jpg" alt="ÀÚ¾çÈ­" /></a></li>
+						<li><a href="galleryEx/photo7.jpg"><img
+								src="galleryEx/photo7_thum.jpg" alt="ÇÏ´Ã" /></a></li>
+						<li><a href="galleryEx/photo8.jpg"><img
+								src="galleryEx/photo8_thum.jpg" alt="°Ç¹°" /></a></li>
+					</ul>
+					<p>
+						<img src="galleryEx/btn_next.jpg" alt="µÚ·Î" class="next" />
+					</p>
+				</div>
+				<div class="page">
+					<ul>
+						<li><a href="galleryEx/photo9.jpg"><img
+								src="galleryEx/photo9_thum.jpg" alt="¼Õ" /></a></li>
+						<li><a href="galleryEx/photo10.jpg"><img
+								src="galleryEx/photo10_thum.jpg" alt="¸¶·ç" /></a></li>
+						<li><a href="galleryEx/photo11.jpg"><img
+								src="galleryEx/photo11_thum.jpg" alt="³ª¹«" /></a></li>
+						<li><a href="galleryEx/photo12.jpg"><img
+								src="galleryEx/photo12_thum.jpg" alt="ÀÙ" /></a></li>
+						<li><a href="galleryEx/photo13.jpg"><img
+								src="galleryEx/photo13_thum.jpg" alt="²É" /></a></li>
+						<li><a href="galleryEx/photo14.jpg"><img
+								src="galleryEx/photo14_thum.jpg" alt="ÇØÆÄ¸®" /></a></li>
+						<li><a href="galleryEx/photo15.jpg"><img
+								src="galleryEx/photo15_thum.jpg" alt="Ç³¼±" /></a></li>
+						<li><a href="galleryEx/photo16.jpg"><img
+								src="galleryEx/photo16_thum.jpg" alt="²É" /></a></li>
+					</ul>
+					<p>
+						<img src="galleryEx/btn_prev.jpg" alt="¾ÕÀ¸·Î" class="prev" /> <img
+							src="galleryEx/btn_next.jpg" alt="µÚ·Î" class="next" />
+					</p>
+				</div>
+				<div class="page">
+					<ul>
+						<li><a href="galleryEx/photo17.jpg"><img
+								src="galleryEx/photo17_thum.jpg" alt="²É" /></a></li>
+						<li><a href="galleryEx/photo18.jpg"><img
+								src="galleryEx/photo18_thum.jpg" alt="²É" /></a></li>
+						<li><a href="galleryEx/photo19.jpg"><img
+								src="galleryEx/photo19_thum.jpg" alt="²É" /></a></li>
+					</ul>
+					<p>
+						<img src="galleryEx/btn_prev.jpg" alt="¾ÕÀ¸·Î" class="prev" />
+					</p>
+				</div>
+			</div>
+		</div>
+		<div id="main">
+			<img src="galleryEx/photo1.jpg" alt="" />
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>sample8 </title>
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<style type="text/css">
+img{
+	height:200px;
+	display:none;
+}
+p#kk{
+	height:500px;
+	width:500px
+}
+
+		</style>
+		<script>
+$(function(){
+	$("button#fadeIn").click(function(){
+		$("img:not(:animated)").fadeIn("slow");
+	});
+	$("button#fadeOut").click(function(){
+		$("img:not(:animated)").fadeOut("slow");
+	});
+});
+		</script>
+	</head>
+	<body>
+		<button id="fadeIn">표시</button>
+		<button id="fadeOut">비표시</button>
+		<p id = 'kk'><img src="flower.jpg" alt="flower" /></p>
+		<p>asdfdsf</p>
+	</body>
+</html>

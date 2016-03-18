@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>sample2</title>
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+<style type="text/css">
+div{
+	width : 1000px;
+	height: 5000px;
+	display: display;
+}
+div#jj{
+	width: 300px;
+	height: 300px;
+	background: red;
+	display: none;
+}
+
+</style>
+<script>
+	$(function() {
+		$("button").click(function() {
+			$("div#jj").show("slow", function() {
+				$(this).css("background", "blue");
+			});
+		});
+	});
+</script>
+</head>
+<body>
+	<button>Ç¥½Ã</button>
+	<div id = "jj"></div>
+</body>
+</html>

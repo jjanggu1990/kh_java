@@ -1,0 +1,14 @@
+<script>
+    str = 'Like father, like son.';
+    // like를 찾는다. i와 g는 옵션으로 insensitive, globally를 의미한다. 
+    result = str.match(/like/ig);
+    document.writeln(result + '<br>');
+</script>
+
+
+<!-- 
+i Perform case-insensitive matching 대소문자 구분 안함
+g Perform a global match(find all matches rather than stopping after the first match)
+문장 전체에서 찾는다.(첫번째 것을 찾으면 멈춤)
+m Perform multiline matching
+-->

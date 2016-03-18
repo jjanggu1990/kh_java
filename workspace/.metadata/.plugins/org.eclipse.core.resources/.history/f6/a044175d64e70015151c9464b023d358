@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+	<script>
+	function setClock(){
+		var now = new Date();
+		var s = now.getHours() + ' : ' + now.getMinutes() + ' : ' + now.getSeconds();
+		document.getElementById('clock')
+	}
+	setClock();
+	</script>
+</head>
+<body>
+	<div id = 'clock'></div>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- 	<div id = 'clock'></div>
+	<script>
+	function setClock(){
+		var now = new Date();
+		var s = now.getHours() + ' : ' + now.getMinutes() + ' : ' + now.getSeconds();
+		document.getElementById('clock').innerHTML = s;
+		setTimeout('setClock()',1000);
+	}
+	setClock();
+	</script> -->
+<!-- 	<script>
+		var Eval = "";
+		Eval += 'var number = 10;';
+		Eval += 'alert(number);';
+		
+		eval(Eval);
+	</script> -->
+	
+<!-- 	<script>
+	
+		var number = 1/0;
+		alert(number+' : '+ isFinite(number));
+	
+	</script> -->
+	
+	
+	<script>
+		if(parseInt(NaN) == parseInt(NaN)){
+			alert('Nan == NaN');
+		} else{
+			alert('Nan != NaN');
+		}
+		
+	
+	</script>
+</body>
+</html>

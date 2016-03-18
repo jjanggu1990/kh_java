@@ -47,5 +47,5 @@
 	<delete id = "remove_id" parameterType = "String">
 		delete from login_info where id = #{id}
 	</delete>
-	
+
 </mapper>
