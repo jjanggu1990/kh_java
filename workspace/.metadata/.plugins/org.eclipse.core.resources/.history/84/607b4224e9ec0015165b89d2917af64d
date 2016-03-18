@@ -1,0 +1,20 @@
+<%@ page contentType="text/html; charset=EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>클라이언트 및 서버 정도</title>
+</head>
+<body>
+클라이언트 IP = <%= request.getRemoteAddr() %>
+요청정보길이 = <%= request.getContentLength() %>
+요청정보 인코딩 = <%= request.getCharacterEncoding() %>
+요청정보 컨텐트타입 = <%= request.getContentType %>
+요청정보 프로토콜
+요청정보 전송방식
+요청URI
+컨텍스트 경로
+서버이름
+서버포트
+</body>
+</html>

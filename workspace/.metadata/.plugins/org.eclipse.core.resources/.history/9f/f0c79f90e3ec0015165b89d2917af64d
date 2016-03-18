@@ -1,0 +1,16 @@
+<%@ page contentType="text/html; charset=ms949"%>
+<%@ page import = "java.util.Date" %>
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>현재 시간</title>
+</head>
+<body>
+<!-- 현재시간 표시 - html 주석 -->
+<%-- jsp 주석 --%>
+현재시간 표시
+<% Date d = new Date(); %>
+<%= d %>
+</body>
+</html>
