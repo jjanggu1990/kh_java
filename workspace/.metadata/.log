@@ -8985,3 +8985,12 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-03-18 16:15:26.130
+!MESSAGE cacheFile=file:/F:/eclipse-jee-mars-1-win32-x86_64/java_git/workspace/.metadata/.plugins/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.ui.navigator 4 0 2016-03-18 16:15:37.600
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "P/Servers".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2016-03-18 16:15:37.884
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "P/Servers".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
