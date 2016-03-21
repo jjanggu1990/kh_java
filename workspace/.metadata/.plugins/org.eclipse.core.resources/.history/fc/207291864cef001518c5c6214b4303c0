@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	id="WebApp_ID" version="3.0">
+	<display-name>JSP_EX</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+
+	<context-param>
+		<description>초기화 파라미터</description>
+		<param-name>pname</param-name>
+		<param-value>pvalue</param-value>
+	</context-param>
+	<context-param>
+		<description>serverIP value</description>
+		<param-name>serverIP</param-name>
+		<param-value>111.111.111.111</param-value>
+	</context-param>
+	<context-param>
+		<param-name>name</param-name>
+		<param-value>이름</param-value>
+	</context-param>
+	<context-param>
+		<param-name>value</param-name>
+		<param-value>값</param-value>
+	</context-param>
+	<!-- <servlet> <servlet-name>NowServlet</servlet-name> <servlet-class>EX.NowServlet</servlet-class> 
+		</servlet> <servlet-mapping> <servlet-name>NowServlet</servlet-name> <url-pattern>/now</url-pattern> 
+		</servlet-mapping> -->
+
+</web-app>
