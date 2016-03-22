@@ -1,9 +1,9 @@
-<%@ page contentType = "text/html; charset=euc-kr" %>
+<%@ page contentType = "text/html; charset=utf-8" %>
 <html>
-<head><title>to.jspÀÇ ½ÇÇà °á°ú</title></head>
+<head><title>to.jspì˜ ì‹¤í–‰ ê²°ê³¼</title></head>
 <body>
 
-ÀÌ ÆäÀÌÁö´Â to.jsp°¡ »ý¼ºÇÑ °ÍÀÔ´Ï´Ù.
+ì´ íŽ˜ì´ì§€ëŠ” to.jspê°€ ìƒì„±í•œ ê²ƒìž…ë‹ˆë‹¤.
 
 </body>
 </html>

@@ -4,6 +4,6 @@
 <body>
 
 이 페이지는 <b><font size="5">A</font></b> 입니다.
-<%= request.getAttribute("A") %>
+<%-- <%= request.getAttribute("A") %> --%>
 </body>
 </html>

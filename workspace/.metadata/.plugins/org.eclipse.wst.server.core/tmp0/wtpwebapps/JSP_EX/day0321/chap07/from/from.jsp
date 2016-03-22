@@ -1,17 +1,17 @@
-<%@ page contentType = "text/html; charset=euc-kr" %>
+<%@ page contentType = "text/html; charset=utf-8" %>
 <%--
-	<jsp:foward> ¾×¼Ç ÅÂ±×¸¦ ½ÇÇàÇÏ¸é
-	»ý¼ºÇß´ø Ãâ·Â °á°ú´Â ¸ðµÎ Á¦°ÅµÈ´Ù.
+	<jsp:foward> ì•¡ì…˜ íƒœê·¸ë¥¼ ì‹¤í–‰í•˜ë©´
+	ìƒì„±í–ˆë˜ ì¶œë ¥ ê²°ê³¼ëŠ” ëª¨ë‘ ì œê±°ëœë‹¤.
 --%>
 <html>
-<head><title>from.jspÀÇ Á¦¸ñ</title></head>
+<head><title>from.jspì˜ ì œëª©</title></head>
 <body>
 
-ÀÌ ÆäÀÌÁö´Â from.jsp°¡ »ý¼ºÇÑ °ÍÀÔ´Ï´Ù.
+ì´ íŽ˜ì´ì§€ëŠ” from.jspê°€ ìƒì„±í•œ ê²ƒìž…ë‹ˆë‹¤.
 
 <jsp:forward page="../to/to.jsp" />
 
-forward¾×¼ÇÅÂ±× ÈÄ
+forwardì•¡ì…˜íƒœê·¸ í›„
 
 </body>
 </html>

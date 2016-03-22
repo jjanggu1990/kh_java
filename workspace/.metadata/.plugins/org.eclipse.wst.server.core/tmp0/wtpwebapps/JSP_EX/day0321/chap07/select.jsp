@@ -3,7 +3,8 @@
 <head><title>옵션 선택 화면</title></head>
 <body>
 
-<form action="<%= request.getContextPath() %>/chap07/view.jsp">
+<%-- <form action="<%= request.getContextPath() %>/day0321/chap07/view.jsp"> --%>
+<form action="view.jsp">
 
 보고 싶은 페이지 선택:
     <select name="code">

@@ -36,4 +36,14 @@
 		</servlet> <servlet-mapping> <servlet-name>NowServlet</servlet-name> <url-pattern>/now</url-pattern> 
 		</servlet-mapping> -->
 
+<!-- 	<error-page>
+		<error-code>404</error-code>
+		<location>/day0322/chap08/error/error404.jsp</location>
+	</error-page>
+	
+	<error-page>
+		<exception-type>java.lang.NullPointerException</exception-type>
+		<location>/day0322/chap08/error/errorNullPointer.jsp</location>
+	</error-page> -->
+	
 </web-app>
