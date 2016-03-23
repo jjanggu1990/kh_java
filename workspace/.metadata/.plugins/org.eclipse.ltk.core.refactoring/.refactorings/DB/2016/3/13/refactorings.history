@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;ojdbc6.jar&apos; to &apos;lib&apos;&#x0D;&#x0A;- Original project: &apos;DB&apos;&#x0D;&#x0A;- Destination element: &apos;lib&apos;&#x0D;&#x0A;- Original element: &apos;DB/lib/ojdbc6.jar&apos;" description="Copy source folder" element1="/lib\/ojdbc6.jar" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1458723862761" target="/JSP_EX/WebContent/WEB-INF/lib" version="1.0"/>
+</session>

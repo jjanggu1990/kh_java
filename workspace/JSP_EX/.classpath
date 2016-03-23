@@ -32,5 +32,6 @@
 	<classpathentry kind="lib" path="C:/Users/user2/Downloads/apache-tomcat-8.0.32-windows-x64/apache-tomcat-8.0.32/lib/tomcat-util-scan.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user2/Downloads/apache-tomcat-8.0.32-windows-x64/apache-tomcat-8.0.32/lib/tomcat-websocket.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user2/Downloads/apache-tomcat-8.0.32-windows-x64/apache-tomcat-8.0.32/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/ojdbc6.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
