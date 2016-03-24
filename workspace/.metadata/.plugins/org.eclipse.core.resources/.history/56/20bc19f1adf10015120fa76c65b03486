@@ -1,0 +1,5 @@
+package ssol.logon;
+
+public class LogonDBBean {
+
+}

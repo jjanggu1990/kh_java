@@ -1,0 +1,35 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%@ include file="color.jsp" %>
+<!DOCTYPE html>
+<html>
+<head>
+<title> 회원가입 </title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+	function chekIt(){
+		var userinput = eval("document.userinput");
+		if(!userinput.id.value){
+			alert("ID 를 입력하세요.");
+			return false;
+		}
+		if(!userinput.passwd.value){
+			alert("비밀번호를 입력하세요.");
+			return false;
+		}
+		if(!userinput.name.value){
+			alert("사용자의 이름을 입력하세요.");
+			return false;
+		}
+		if(!userinput.jumin1.value || !userinput.jumin2.value){
+			alert("주민등록번호를 입력하세요.");
+			return false;
+		}
+		return true;
+	}
+
+</script>
+</head>
+<body>
+
+</body>
+</html>

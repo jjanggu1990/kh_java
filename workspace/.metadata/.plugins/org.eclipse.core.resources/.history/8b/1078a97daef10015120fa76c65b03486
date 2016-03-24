@@ -1,0 +1,30 @@
+package ssol.logon;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+
+public class LogonDBBean {
+	private static LogonDBBean instance = new LogonDBBean();
+	
+	public static LogonDBBean getInstance(){
+		return instance;
+	}
+	private LogonDBBean(){}
+	
+	private Connection getConnection() throws Exception{
+		String jdbcDriver = "jdbc:apache:commons:dbcp:/pool";
+		return DriverManager.getConnection(jdbcDriver);
+	}
+	
+	public void insertMember(LogonDataBean member) throws Exception{
+		Connection conn = null;
+		PreparedStatement pstmt = null;
+		try{
+			conn = getConnection();
+			
+			pstmt = conn.prepareStatement("insert into MEMBERS values (?,?,?,?,?,?,?,?,?,?)");
+		}
+	}
+
+}

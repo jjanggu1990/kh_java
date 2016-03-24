@@ -1,0 +1,14 @@
+package logon_Project;
+
+public class LogonDataBean {
+	String id;
+	String passwd;
+	String name;
+	String jumin1;
+	String jumin2;
+	String email;
+	String blog;
+	String reg_date;
+	String zipcode;
+	String address;
+}

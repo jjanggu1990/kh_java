@@ -1,4 +1,4 @@
-<%@ page contentType = "text/html; charset=euc-kr" %>
+<%@ page contentType = "text/html; charset=utf-8" %>
 <%@ page import = "java.sql.DriverManager" %>
 <%@ page import = "java.sql.Connection" %>
 <%@ page import = "java.sql.PreparedStatement" %>
@@ -10,10 +10,12 @@
 	PreparedStatement pstmtItem = null;
 	PreparedStatement pstmtDetail = null;
 
-	String jdbcDriver = "jdbc:mysql://localhost:3306/chap12?" +
-						"useUnicode=true&characterEncoding=euckr";
-	String dbUser = "jspexam";
-	String dbPass = "jspex";
+	Class.forName("oracle.jdbc.driver.OracleDriver");
+	/* String jdbcDriver = "jdbc:mysql://localhost:3306/chap12?" +
+						"useUnicode=true&characterEncoding=euckr"; */
+	String jdbcDriver = "jdbc:oracle:thin:@localhost:1521:XE";
+	String dbUser = "scott";
+	String dbPass = "tiger";
 	
 	Throwable occuredException = null;
 	
@@ -25,17 +27,17 @@
 		
 		pstmtItem = conn.prepareStatement("insert into ITEM values (?, ?)");
 		pstmtItem.setInt(1, id);
-		pstmtItem.setString(2, "»óÇ° ÀÌ¸§ " + id);
+		pstmtItem.setString(2, "ìƒí’ˆ ì´ë¦„ " + id);
 		pstmtItem.executeUpdate();
 		
 		if (request.getParameter("error") != null) {
-			throw new Exception("ÀÇµµÀû ÀÍ¼Á¼Ç ¹ß»ý");
+			throw new Exception("ì˜ë„ì  ìµì…‰ì…˜ ë°œìƒ");
 		}
 		
 		pstmtDetail = conn.prepareStatement(
 			"insert into ITEM_DETAIL values (?, ?)");
 		pstmtDetail.setInt(1, id);
-		pstmtDetail.setString(2, "»ó¼¼ ¼³¸í " + id);
+		pstmtDetail.setString(2, "ìƒì„¸ ì„¤ëª… " + id);
 		pstmtDetail.executeUpdate();
 		
 		conn.commit();
@@ -55,13 +57,13 @@
 	}
 %>
 <html>
-<head><title>ITEM °ª ÀÔ·Â</title></head>
+<head><title>ITEM ê°’ ìž…ë ¥</title></head>
 <body>
 
 <%  if (occuredException != null) { %>
-¿¡·¯°¡ ¹ß»ýÇÏ¿´½¿: <%= occuredException.getMessage() %>
+ì—ëŸ¬ê°€ ë°œìƒí•˜ì˜€ìŠ´: <%= occuredException.getMessage() %>
 <%  } else { %>
-µ¥ÀÌÅÍ°¡ ¼º°øÀûÀ¸·Î µé¾î°¨
+ë°ì´í„°ê°€ ì„±ê³µì ìœ¼ë¡œ ë“¤ì–´ê°
 <%  } %>
 </body>
 </html>

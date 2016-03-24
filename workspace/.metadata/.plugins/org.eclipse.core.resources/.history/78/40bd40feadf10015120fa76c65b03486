@@ -1,0 +1,6 @@
+package ssol.logon;
+
+public class LogonDBBean {
+	private static LogonDBBean instance = new LogonDBBean();
+
+}
