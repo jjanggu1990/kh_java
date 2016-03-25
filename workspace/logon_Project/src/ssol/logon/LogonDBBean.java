@@ -59,13 +59,13 @@ public class LogonDBBean {
 			
 			pstmt = conn.prepareStatement("select passwd from MEMBERS where id = ?");
 			pstmt.setString(1, id);
-			
+			rs = pstmt.executeQuery();
 			if(rs.next()){
 				dbpasswd= rs.getString("passwd");
 				if(dbpasswd.equals(passwd)){
 					x= 1;
 				}else{
-					x=0;
+					x= 0;
 				}
 			}else{
 				x = -1;
@@ -126,6 +126,8 @@ public class LogonDBBean {
 				member.setJumin2(rs.getString("jumin2"));
 				member.setEmail(rs.getString("email"));
 				member.setBlog(rs.getString("blog"));
+				member.setZipcode(rs.getString("zipcode"));
+				member.setAddress(rs.getString("address"));
 				member.setReg_date(rs.getTimestamp("reg_date"));
 				
 			}
@@ -145,12 +147,13 @@ public class LogonDBBean {
 		try{
 			conn = getConnection();
 			
-			pstmt = conn.prepareStatement("update members set passwd = ?, name =?, email=?, blog = ? where id =?");
+			pstmt = conn.prepareStatement("update members set passwd = ?, name =?, email=?, blog = ?,address=? where id =?");
 			pstmt.setString(1,member.getPasswd());
 			pstmt.setString(2, member.getName());
 			pstmt.setString(3, member.getEmail());
 			pstmt.setString(4, member.getBlog());
-			pstmt.setString(5, member.getId());
+			pstmt.setString(5, member.getAddress());
+			pstmt.setString(6, member.getId());
 			
 			pstmt.executeQuery();
 			
@@ -181,6 +184,7 @@ public class LogonDBBean {
 					pstmt = conn.prepareStatement("delete from members where id=?");
 					pstmt.setString(1, id);
 					pstmt.executeUpdate();
+					x=1;
 					
 				}else{
 					x = 0;

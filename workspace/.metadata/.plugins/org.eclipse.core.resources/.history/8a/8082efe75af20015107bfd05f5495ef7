@@ -1,0 +1,31 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%@ include file="color.jsp" %>
+<!DOCTYPE html>
+<html>
+<head>
+<title> 회원탈퇴 </title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<script>
+	function begin(){
+		documnet.myform.passwd.focus();
+	}
+	function checkIt(){
+		if(!documnet.myform.passwd.value){
+			alert("비밀번호를 입력하지 않으셨습니다.");
+			return false;
+		}
+	}
+
+</script>
+</head>
+<body onload="begin()" bgcolor="<%=bodyback_c%>">
+<form name="myform" action="deletePro.jsp" method="post" onSubmit="return checkIt()">
+<table cellSpacing="1" cellPadding="1" width="260" border=1 align ="center">
+<tr height="30">
+	<td colspan="2" align="middle" bgcolor="<%=title_c %>"
+
+
+</table>
+
+</body>
+</html>
