@@ -1,0 +1,6 @@
+package board;
+
+public class searchBean {
+	String id;
+	String select;
+}

@@ -1,0 +1,28 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%@ page import = "board.*" %>
+<%@ include file="color.jsp" %>
+<!DOCTYPE html>
+<html>
+<head>
+<title> 게시판 </title>
+<ling href = "style.css" rel="stylesheet" type="text/css">
+<script src= "script.js"></script>
+</head>
+<%
+	int num = Integer.parseInt(request.getParameter("num"));
+	String pageNum = request.getParameter("pageNum");
+	try{
+		BoardDBBean dbPro = BoardDBBean.getInstance();
+		BoardDataBean article = dbPro.updateGetArticle(num);
+%>
+<body bgcolor = "<%=bodyback_c%>">
+<center><b>글수정</b></center>
+<br>
+<form method="post" name= "writeform" action="updatePro.jsp?pageNum=<%=pageNum %>" onsubmit="return writeSave()">
+
+	}
+	catch(Exception e){
+		
+	}
+</body>
+</html>

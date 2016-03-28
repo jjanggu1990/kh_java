@@ -1,0 +1,14 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%@ page import = "board.BoardDBBean" %>
+<%@ page import = "board.BoardDataBean" %>
+<%@ page import = "java.text.SimpleDateFormat" %>
+<%@ include file="../view/color.jsp"%>
+<!DOCTYPE html>
+<html>
+<head>
+<title> NewTab </title>
+</head>
+<body>
+
+</body>
+</html>

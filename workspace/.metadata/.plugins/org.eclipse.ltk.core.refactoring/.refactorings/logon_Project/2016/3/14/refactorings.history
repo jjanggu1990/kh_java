@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;lib&apos;&#x0D;&#x0A;- Original project: &apos;logon_Project&apos;&#x0D;&#x0A;- Destination element: &apos;lib&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     commons-pool-1.6.jar&#x0D;&#x0A;     commons-dbcp-1.4.jar&#x0D;&#x0A;     ojdbc6.jar" description="Copy files" element1="WebContent/WEB-INF/lib/commons-pool-1.6.jar" element2="WebContent/WEB-INF/lib/commons-dbcp-1.4.jar" element3="WebContent/WEB-INF/lib/ojdbc6.jar" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1459149234584" target="/borad_Project/WebContent/WEB-INF/lib" units="0" version="1.0"/>
+</session>
