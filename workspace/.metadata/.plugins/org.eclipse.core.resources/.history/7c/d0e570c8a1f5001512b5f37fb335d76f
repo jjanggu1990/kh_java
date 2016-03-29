@@ -1,0 +1,10 @@
+package board;
+import board.CommentDataBean;
+public class CommentDBBean {
+	private static CommentDBBean instance = new CommentDBBean();
+	
+	public static CommnetDBBean getInstance(){
+		retunr instance;
+	}
+
+}

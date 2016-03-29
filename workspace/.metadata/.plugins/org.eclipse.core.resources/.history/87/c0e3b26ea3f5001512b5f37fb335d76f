@@ -1,0 +1,13 @@
+package board;
+
+import java.sql.*;
+
+public class JdbcUtil {
+	public static void close(PreparedStatement pstmt){
+		try{
+			pstmt.close();
+		}catch(Exception e){
+			
+		}
+	}
+}

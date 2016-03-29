@@ -794,3 +794,13 @@
 0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:19:50 +0900] "GET /borad_Project/boad/list.jsp?select=subject&search=1 HTTP/1.1" 200 860
 0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:19:51 +0900] "GET /borad_Project/boad/list.jsp?select=subject&search= HTTP/1.1" 200 860
 0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:19:58 +0900] "GET /borad_Project/boad/list.jsp?select=subject&search=a HTTP/1.1" 200 860
+127.0.0.1 - - [28/Mar/2016:21:24:00 +0900] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:24:02 +0900] "GET /borad_Project/boad/list.jsp HTTP/1.1" 200 3657
+0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:24:02 +0900] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:24:05 +0900] "GET /borad_Project/boad/list.jsp?select=subject&search=a HTTP/1.1" 200 860
+0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:24:06 +0900] "GET /borad_Project/boad/list.jsp?select=subject&search=a HTTP/1.1" 200 860
+0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:24:07 +0900] "GET /borad_Project/boad/list.jsp?select=subject&search=1 HTTP/1.1" 200 860
+0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:24:08 +0900] "GET /borad_Project/boad/list.jsp?select=subject&search=11 HTTP/1.1" 200 860
+0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:24:10 +0900] "GET /borad_Project/boad/list.jsp?select=writer&search=aa HTTP/1.1" 200 860
+0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:24:11 +0900] "GET /borad_Project/boad/list.jsp?select=subject&search=11 HTTP/1.1" 200 860
+0:0:0:0:0:0:0:1 - - [28/Mar/2016:21:24:12 +0900] "GET /borad_Project/boad/list.jsp?select=writer&search=11 HTTP/1.1" 200 2165

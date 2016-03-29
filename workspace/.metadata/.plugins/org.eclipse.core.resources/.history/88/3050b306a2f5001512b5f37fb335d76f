@@ -1,0 +1,17 @@
+package board;
+import java.sql.Connection;
+public class CommentDBBean {
+	private static CommentDBBean instance = new CommentDBBean();
+	
+	public static CommentDBBean getInstance(){
+		return instance;
+	}
+	
+	private CommentDBBean(){}
+	
+	private Connection getConnetion() throws Exception{
+		String jdbcDriver = "jdbc:apache:commons:dbcp:/pool";
+	}
+	
+
+}

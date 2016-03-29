@@ -1,0 +1,34 @@
+package board;
+
+import java.sql.*;
+
+public class JdbcUtil {
+	public static void close(PreparedStatement pstmt){
+		if(pstmt !=null){
+			try{
+				pstmt.close();
+			}catch(Exception e){
+			}
+
+		}
+	}
+	public static void close(Connection conn){
+		if(pstmt !=null){
+			try{
+				pstmt.close();
+			}catch(Exception e){
+			}
+
+		}
+	}
+	public static void close(PreparedStatement pstmt){
+		if(pstmt !=null){
+			try{
+				pstmt.close();
+			}catch(Exception e){
+			}
+
+		}
+	}
+	
+}
