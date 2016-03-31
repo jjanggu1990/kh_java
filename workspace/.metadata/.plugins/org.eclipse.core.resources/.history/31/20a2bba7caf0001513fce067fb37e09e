@@ -1,9 +1,0 @@
-<%@ page contentType = "text/html; charset=utf-8" %>
-
-<jsp:useBean id="member" scope="page"
-        class="member.MemberInfo" />
-<%
-	member.setId("kosmo");
-	member.setName("su");
-%>
-<jsp:forward page="useObject.jsp" />

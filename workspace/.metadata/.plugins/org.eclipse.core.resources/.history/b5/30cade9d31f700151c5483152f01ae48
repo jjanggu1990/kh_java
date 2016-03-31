@@ -1,0 +1,5 @@
+package dao.oracle;
+
+public class OracleMessageDao extends MessageDao{
+
+}

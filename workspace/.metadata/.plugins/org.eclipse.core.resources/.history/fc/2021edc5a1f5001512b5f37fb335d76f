@@ -1,6 +1,0 @@
-package board;
-import board.CommentDataBean;
-public class CommentDBBean {
-	
-
-}

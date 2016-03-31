@@ -1,0 +1,13 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%@ page import = "model.Message" %>
+<%@ page import = "model.MessageListView" %>
+<%@ page import = "service.GetMessageListService" %>
+<!DOCTYPE html>
+<html>
+<head>
+<title> NewTab </title>
+</head>
+<body>
+
+</body>
+</html>

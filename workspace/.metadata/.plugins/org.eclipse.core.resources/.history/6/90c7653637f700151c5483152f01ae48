@@ -1,0 +1,11 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%@ page isErrorPage="true" %>
+<!DOCTYPE html>
+<html>
+<head>
+<title> 서비스 에러 </title>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+1459421693821	Rename package 'loader'
+1459421735124	Move 5 resources to 'lib'
+1459422384715	Rename type 'JdbcUtil'
+1459422585382	Move compilation unit
+1459422608838	Rename package 'jdbc.loader'
+1459422636195	Copy package
+1459422651038	Rename package 'loader'
+1459422660250	Delete element
+1459422692441	Rename package 'jdbc.loader'
+1459424930386	Rename type 'InvalidMessagePassowrdException'
+1459425408736	Copy files
+1459425818975	Move 'guestbook' to 'WebContent'
+1459425886568	Delete element

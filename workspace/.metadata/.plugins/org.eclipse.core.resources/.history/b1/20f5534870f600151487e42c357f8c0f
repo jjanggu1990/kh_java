@@ -1,0 +1,13 @@
+import java.util.StringTokenizer;
+
+import javax.swing.plaf.synth.SynthScrollBarUI;
+
+public class test {
+
+	public static void main(String [] args){
+		StringTokenizer t;
+		t  = new StringTokenizer("hello","el");
+		System.out.println(t.nextToken());
+		System.out.println(t.nextToken());
+	}
+}

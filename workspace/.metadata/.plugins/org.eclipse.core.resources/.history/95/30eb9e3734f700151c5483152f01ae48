@@ -1,0 +1,24 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%@ page import = "model.Message" %>
+<%@ page import = "model.MessageListView" %>
+<%@ page import = "service.GetMessageListService" %>
+<%
+	String pageNumberStr=request.getParameter("page");
+	int pageNumber=1;
+	if(pageNumberStr!=null){
+		pageNumber=Integer.parseInt(pageNumberStr);
+	}
+	GetMessageListService messageListService=GetMessageListService.getInstance();
+	
+
+
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<title> NewTab </title>
+</head>
+<body>
+
+</body>
+</html>

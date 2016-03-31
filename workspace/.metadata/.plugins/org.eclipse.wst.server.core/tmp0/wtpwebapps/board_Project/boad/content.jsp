@@ -3,7 +3,7 @@
 <%@ page import = "board.BoardDataBean" %>
 <%@ page import = "board.CommentDataBean" %>
 <%@ page import = "board.CommentDBBean" %>
-<%@ page impport = "java.util.*" %>
+<%@ page import = "java.util.*" %>
 <%@ page import = "java.text.SimpleDateFormat" %>
 <%@ include file="color.jsp"%>
 <!DOCTYPE html>
