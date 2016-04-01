@@ -1,0 +1,9 @@
+package pds.service;
+
+public class ListPdsItemService {
+	private static ListPdsItemService instance = new ListPdsItemService();
+	
+	public static ListPdsItemService getInstance(){
+		return instance;
+	}
+}

@@ -6,11 +6,13 @@
 <body>
 
 <%
+
 	FileReader reader = null;
 	try {
 		String path = request.getParameter("path");
 		reader = new FileReader(getServletContext().getRealPath(path));
 %>
+
 <pre>
 소스 코드 = <%= path %>
 <c:out value="<%= reader %>" escapeXml="true" />

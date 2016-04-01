@@ -1,0 +1,15 @@
+package pds.service;
+
+public class GetPdsItemService {
+	private static GetPdsItemService instance = new GetPdsItemService();
+	
+	public static GetPdsItemService getInstance(){
+		return instance;
+	}
+	private GetPdsItemService(){
+	}
+	
+	public PdsItem getPdsItem(int id) throws PdsItemNotFoundException{
+		Connction conn =null;
+	}
+}

@@ -3,7 +3,10 @@
 <%@ page import = "model.MessageListView" %>
 <%@ page import = "service.GetMessageListService" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jstl/core" %>
+
+
 <%
+	
 	String pageNumberStr=request.getParameter("page");
 	int pageNumber=1;
 	if(pageNumberStr!=null){
@@ -12,7 +15,6 @@
 	GetMessageListService messageListService=GetMessageListService.getInstance();
 	MessageListView viewData=messageListService.getMessageList(pageNumber);
 %>
-
 <!DOCTYPE html>
 <html>
 <head>

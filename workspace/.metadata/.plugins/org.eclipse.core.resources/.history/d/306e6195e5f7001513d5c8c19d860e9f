@@ -1,0 +1,12 @@
+package pds.service;
+
+public class GetPdsItemService {
+	private static GetPdsItemService instance = new GetPdsItemService();
+	
+	public static GetPdsItemService getInstance(){
+		return instance;
+	}
+	private GetPdsItemService(){
+		
+	}
+}

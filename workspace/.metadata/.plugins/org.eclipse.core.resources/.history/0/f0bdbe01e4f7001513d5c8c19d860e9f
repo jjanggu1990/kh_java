@@ -1,0 +1,19 @@
+package pds.service;
+
+public class ListPdsItemService {
+	private static ListPdsItemService instance = new ListPdsItemService();
+	
+	public static ListPdsItemService getInstance(){
+		return instance;
+	}
+	private ListPdsItemService(){
+		
+	}
+	public static final int COUNT_PER_PAGE=10;
+	
+	public PdsItemListModel getPdsItemList(int pageNumber){
+		if(pageNumber<0){
+			throw new IlegalArgumentException("page number <0 : "+ pageNumber);
+		}
+	}
+}
