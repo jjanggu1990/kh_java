@@ -1,11 +1,18 @@
 package pds.model;
 
 public class AddRequest {
+	private int id;
 	private String fileName;
 	private long fileSize;
 	private String realPath;
 	private String description;
 
+	public void setId(int id){
+		this.id=id;
+	}
+	public int getId(){
+		return id;
+	}
 	public String getFileName() {
 		return fileName;
 	}
@@ -40,6 +47,7 @@ public class AddRequest {
 
 	public PdsItem toPdsItem() {
 		PdsItem item = new PdsItem();
+		item.setId(id);
 		item.setFileName(fileName);
 		item.setFileSize(fileSize);
 		item.setRealPath(realPath);

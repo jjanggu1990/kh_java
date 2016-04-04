@@ -134,19 +134,23 @@ public class PdsItemDao {
 		}
 	}
 	
-	public int delete(Connection conn, PdsItem item)throws SQLException{
+	public int remove(Connection conn, PdsItem item)throws SQLException{
 		PreparedStatement pstmt = null;
 		Statement stmt = null;
 		ResultSet rs = null;
 		try{
-			pstmt=conn.prepareStatement("delete from pds_item where realpath = ?");
-			pstmt.setString(1,"item.getRealPath()");
-			return -1;
+			pstmt=conn.prepareStatement("delete from pds_item where pds_item_id = ?");
+			pstmt.setInt(1,item.getId());
+			int id = pstmt.executeUpdate();
+			if(id == -1){
+				return -1;
+			}else{
+				return id;
+			}
 		}finally{
 			JdbcUtil.close(rs);
 			JdbcUtil.close(stmt);
 			JdbcUtil.close(pstmt);
-			
 		}
 		
 	}

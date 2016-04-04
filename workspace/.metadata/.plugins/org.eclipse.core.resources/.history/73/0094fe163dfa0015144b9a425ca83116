@@ -1,0 +1,7 @@
+package pds.file;
+
+public class FileRemoveHelper {
+	public boolean static removeFile(){
+		return false;
+	}
+}

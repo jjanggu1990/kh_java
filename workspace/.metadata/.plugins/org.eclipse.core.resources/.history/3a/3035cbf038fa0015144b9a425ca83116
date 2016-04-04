@@ -1,0 +1,9 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%@ page import="pds.service.GetPdsItemService"%>
+<%@ page import="pds.model.PdsItem" %>
+<%
+	String id = (String)request.getParameter("id");
+	PdsItem item = GetPdsItemService.getInstance().getPdsItem(id);
+
+%>
+<a><%=id %></a>

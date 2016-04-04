@@ -1,0 +1,12 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%@ page import="pds.service.GetPdsItemService"%>
+<%@ page import="pds.service.RemovePdsItemService" %>
+<%@ page import="pds.model.PdsItem" %>
+<%
+	int id = Integer.parseInt(request.getParameter("id"));
+	PdsItem item = GetPdsItemService.getInstance().getPdsItem(id);
+	RemovePdsItemService.getInstance().remove(item);
+	
+%>
+<jsp:forward page = "list_view.jsp"/>
+<%-- <a><%=item.getFileName() %></a> --%>

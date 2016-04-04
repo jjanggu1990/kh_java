@@ -15,7 +15,7 @@
 		int endPageNumber = beginPageNumber +9;
 		if(endPageNumber> itemListModel.getTotalPageCount()){
 			endPageNumber = itemListModel.getTotalPageCount();
-		}
+		} 
 		request.setAttribute("beginPage",beginPageNumber);
 		request.setAttribute("endPage",endPageNumber);
 	}

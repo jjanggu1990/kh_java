@@ -1,0 +1,8 @@
+package pds.file;
+
+public class FileRemoveHelper {
+	public static boolean removeFile(String realpath){
+		
+		return false;
+	}
+}

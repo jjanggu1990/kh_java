@@ -1,0 +1,15 @@
+package pds.file;
+
+import java.io.File;
+
+public class FileRemoveHelper {
+	public static boolean removeFile(String realpath){
+		File file= new File("F://item/"+realpath);
+		
+		try{
+			file.delete();
+			return true;
+		}
+		return false;
+	}
+}
