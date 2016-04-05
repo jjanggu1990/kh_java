@@ -51,9 +51,15 @@
 <html>
 <head>
 <title> 업로드 성공 </title>
+<script type="text/javascript">
+	function parent_reload(){
+		window.close();
+		opener.location.reload(); 
+	}
+</script>
 </head>
 <body>
 <%=pdsItem.getFileName() %> 파일을 업로드 했습니다.<br>
-<a href ="list.jsp">목록보기</a>
+<a href ="list.jsp" onclick="parent_reload()">목록보기</a>
 </body>
 </html>

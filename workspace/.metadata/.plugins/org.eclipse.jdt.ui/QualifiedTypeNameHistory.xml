@@ -51,7 +51,6 @@
 <fullyQualifiedTypeName name="java.sql.Statement"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
 <fullyQualifiedTypeName name="java.io.InputStream"/>
-<fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="pds.model.PdsItem"/>
 <fullyQualifiedTypeName name="pds.model.AddRequest"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
@@ -60,4 +59,5 @@
 <fullyQualifiedTypeName name="jdbc.connection.ConnectionProvider"/>
 <fullyQualifiedTypeName name="pds.dao.PdsItemDao"/>
 <fullyQualifiedTypeName name="jdbc.JdbcUtil"/>
+<fullyQualifiedTypeName name="java.io.File"/>
 </qualifiedTypeNameHistroy>

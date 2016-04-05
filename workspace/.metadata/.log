@@ -12161,3 +12161,77 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !STACK 0
 java.lang.NullPointerException
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:71)
+!SESSION 2016-04-05 15:41:11.165 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-05 15:41:29.813
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.422
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.455
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.463
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.466
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.467
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.468
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.469
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.491
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.492
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.492
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.493
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.496
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.497
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.498
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.500
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.500
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 15:41:32.501
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-05 17:19:00.385
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-04-05 17:46:53.041
+!MESSAGE An internal error occurred during: "Launching client".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:71)

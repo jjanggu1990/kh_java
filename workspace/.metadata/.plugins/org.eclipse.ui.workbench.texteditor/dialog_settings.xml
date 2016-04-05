@@ -9,20 +9,20 @@
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="type" key="selection"/>
+		<item value="회수" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="회수"/>
+			<item value="AddPdsItemService"/>
+			<item value="request"/>
 			<item value="type"/>
 			<item value="savePath"/>
 			<item value="user"/>
 			<item value="getInstance"/>
 			<item value="enumer"/>
-			<item value="maxsize"/>
-			<item value="massize"/>
-			<item value="delete"/>
 		</list>
 		<list key="replacehistory">
 			<item value="dpcp2"/>

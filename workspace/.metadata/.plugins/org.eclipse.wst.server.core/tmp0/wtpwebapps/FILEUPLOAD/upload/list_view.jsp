@@ -5,6 +5,9 @@
 	response.setHeader("Cache-Control","No-cache");
 	response.addHeader("Cache-Control", "No-store");
 	response.setDateHeader("Expires", 1L);
+	
+		
+	
 %>
 <!DOCTYPE html>
 <html>
@@ -66,7 +69,7 @@
 	</c:choose>
 	<tr align="center">
 		<td colspan="6">
-			<a href="uploadForm.jsp">파일 첨부</a>
+			<a href="uploadForm.jsp" target="_blank">파일 첨부</a>
 		</td>
 	</tr>
 </table>
