@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee" xmlns:jsp="http://java.sun.com/xml/ns/javaee/jsp"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	id="WebApp_ID" version="3.0">
+	<display-name>JSP_EX</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+	<context-param>
+		<description>pname</description>
+		<param-name>pname</param-name>
+		<param-value>pvalue</param-value>
+	</context-param>
+	<context-param>
+		<description>serverIP value</description>
+		<param-name>serverIP</param-name>
+		<param-value>111.111.111.111</param-value>
+	</context-param>
+	<context-param>
+		<param-name>javax.servlet.jsp.jstl.fmt.timeZone</param-name>
+		<param-value>Hongkong</param-value>
+	</context-param>
+	<jsp-config>
+
+	<!-- jsp-config�� �ѹ��� �� �� �ִ�. -->
+	<!-- taglib�±״� �� ���� �ö�;� �Ѵ�. -->
+		<taglib>
+			<taglib-uri>
+				/WEB-INF/tlds/el-functions.tld
+			</taglib-uri>
+			<taglib-location>
+				/WEB-INF/tlds/el-functions.tld
+			</taglib-location>
+		</taglib>
+		<jsp-property-group>
+			<url-pattern>/day0321/chap07/view/*</url-pattern>
+			<include-prelude>/day0321/chap07/common/variable.jspf</include-prelude>
+			<include-coda>/day0321/chap07/common/footer.jspf</include-coda>
+		</jsp-property-group>
+<!-- 		<jsp-property-group>
+			<url-pattern>/day0330/oldversion/*</url-pattern>
+			<el-ignored>true</el-ignored>
+		</jsp-property-group> -->
+		
+		
+	</jsp-config>
+
+	<servlet>
+		<servlet-name>DBCPInit</servlet-name>
+		<servlet-class>jdbc.loader.DBCPInit</servlet-class>
+		<init-param>
+			<param-name>jdbcdriver</param-name>
+			<param-value>oracle.jdbc.driver.OracleDriver</param-value>
+		</init-param>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	
+	
+</web-app>

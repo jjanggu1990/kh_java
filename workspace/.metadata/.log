@@ -12235,3 +12235,902 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !STACK 0
 java.lang.NullPointerException
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:71)
+!SESSION 2016-04-06 15:33:32.884 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.233
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.333
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.335
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.337
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.339
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.341
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.342
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.342
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.343
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.344
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.345
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.346
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.347
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.348
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.349
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.349
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.350
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 15:33:57.351
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-06 15:33:58.794
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-04-06 16:25:56.127
+!MESSAGE File not found: '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0401_2F_test_2E_jsp.java'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0401_2F_test_2E_jsp.java' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:334)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:208)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:267)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1190)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:652)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1125)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:812)
+	at org.eclipse.jst.ws.jaxws.utils.clazz.ASTUtils.createCompilationUnit(ASTUtils.java:89)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getCompilationUnit(AnnotationInspectorImpl.java:659)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getSpecificAnnotationFromMember(AnnotationInspectorImpl.java:591)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.inspectType(AnnotationInspectorImpl.java:183)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.AbstractModelSynchronizer.processCompilationUnit(AbstractModelSynchronizer.java:116)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleAddedCompilationUnit(OnEventModelSynchronizer.java:354)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:278)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:302)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:302)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleChangedProject(OnEventModelSynchronizer.java:176)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.elementChanged(OnEventModelSynchronizer.java:86)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2016-04-06 16:25:56.156
+!MESSAGE Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0401_2F_test_2E_jsp.java' does not exist.
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-04-06 16:25:56.826
+!MESSAGE File not found: '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0331_2F_use_5F_function_2E_jsp.java'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0331_2F_use_5F_function_2E_jsp.java' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:334)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:208)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:267)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1190)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:652)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1125)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:812)
+	at org.eclipse.jst.ws.jaxws.utils.clazz.ASTUtils.createCompilationUnit(ASTUtils.java:89)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getCompilationUnit(AnnotationInspectorImpl.java:659)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getSpecificAnnotationFromMember(AnnotationInspectorImpl.java:591)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.inspectType(AnnotationInspectorImpl.java:183)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.AbstractModelSynchronizer.processCompilationUnit(AbstractModelSynchronizer.java:116)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleAddedCompilationUnit(OnEventModelSynchronizer.java:354)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:278)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:302)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:302)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleChangedProject(OnEventModelSynchronizer.java:176)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.elementChanged(OnEventModelSynchronizer.java:86)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2016-04-06 16:25:56.827
+!MESSAGE Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0331_2F_use_5F_function_2E_jsp.java' does not exist.
+
+!ENTRY org.eclipse.jst.jee 4 0 2016-04-06 16:25:58.435
+!MESSAGE [Working copy] __2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_chap07_2F_view_2E_jsp.java [in <default> [in src [in JSP_EX]]] does not exist
+!STACK 1
+Java Model Exception: Java Model Status [[Working copy] __2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_chap07_2F_view_2E_jsp.java [in <default> [in src [in JSP_EX]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:566)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:247)
+	at org.eclipse.jdt.internal.core.SourceRefElement.generateInfos(SourceRefElement.java:107)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:316)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:302)
+	at org.eclipse.jdt.internal.core.SourceType.getAnnotations(SourceType.java:200)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.createJavaeeObject(WebAnnotationReader.java:152)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.analyzeCompilationUnit(WebAnnotationReader.java:145)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.processAddedCompilationUnit(WebAnnotationReader.java:257)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:543)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:562)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:519)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:527)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProjectChildren(AbstractAnnotationModelProvider.java:501)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProject(AbstractAnnotationModelProvider.java:492)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.internalPostChange(AbstractAnnotationModelProvider.java:457)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.elementChanged(AbstractAnnotationModelProvider.java:448)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-04-06 16:25:58.435
+!MESSAGE [Working copy] __2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_chap07_2F_view_2E_jsp.java [in <default> [in src [in JSP_EX]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-04-06 16:26:02.112
+!MESSAGE File not found: '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0331_2F_listTimezones_2E_jsp.java'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0331_2F_listTimezones_2E_jsp.java' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:334)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:208)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:267)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1190)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:652)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1125)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:812)
+	at org.eclipse.jst.ws.jaxws.utils.clazz.ASTUtils.createCompilationUnit(ASTUtils.java:89)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getCompilationUnit(AnnotationInspectorImpl.java:659)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getSpecificAnnotationFromMember(AnnotationInspectorImpl.java:591)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.inspectType(AnnotationInspectorImpl.java:183)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.AbstractModelSynchronizer.processCompilationUnit(AbstractModelSynchronizer.java:116)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleAddedCompilationUnit(OnEventModelSynchronizer.java:354)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:278)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:302)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:302)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleChangedProject(OnEventModelSynchronizer.java:176)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.elementChanged(OnEventModelSynchronizer.java:86)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2016-04-06 16:26:02.113
+!MESSAGE Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0331_2F_listTimezones_2E_jsp.java' does not exist.
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-04-06 16:26:09.067
+!MESSAGE File not found: '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0323_2F_chap12_2F_update_2F_update_2E_jsp.java'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0323_2F_chap12_2F_update_2F_update_2E_jsp.java' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:334)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:208)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:267)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1190)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:652)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1125)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:812)
+	at org.eclipse.jst.ws.jaxws.utils.clazz.ASTUtils.createCompilationUnit(ASTUtils.java:89)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getCompilationUnit(AnnotationInspectorImpl.java:659)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getSpecificAnnotationFromMember(AnnotationInspectorImpl.java:591)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.inspectType(AnnotationInspectorImpl.java:183)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleChangedContentCompilationUnit(OnEventModelSynchronizer.java:310)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleReconcileEvent(OnEventModelSynchronizer.java:119)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.elementChanged(OnEventModelSynchronizer.java:72)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fireReconcileDelta(DeltaProcessor.java:1504)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1463)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2016-04-06 16:26:09.067
+!MESSAGE Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0323_2F_chap12_2F_update_2F_update_2E_jsp.java' does not exist.
+
+!ENTRY org.eclipse.jst.jee 4 0 2016-04-06 16:29:41.225
+!MESSAGE [Working copy] __2F_JSP_5F_EX_2F_WebContent_2F_day0322_2F_chap09_2F_makeCookieUsingBox_2E_jsp.java [in <default> [in src [in JSP_EX]]] does not exist
+!STACK 1
+Java Model Exception: Java Model Status [[Working copy] __2F_JSP_5F_EX_2F_WebContent_2F_day0322_2F_chap09_2F_makeCookieUsingBox_2E_jsp.java [in <default> [in src [in JSP_EX]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:566)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:247)
+	at org.eclipse.jdt.internal.core.SourceRefElement.generateInfos(SourceRefElement.java:107)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:316)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:302)
+	at org.eclipse.jdt.internal.core.SourceType.isClass(SourceType.java:591)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.analyzeCompilationUnit(WebAnnotationReader.java:126)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.processAddedCompilationUnit(WebAnnotationReader.java:257)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.processChangedCompilationUnit(WebAnnotationReader.java:270)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:553)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.internalPostReconcile(AbstractAnnotationModelProvider.java:466)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.elementChanged(AbstractAnnotationModelProvider.java:446)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fireReconcileDelta(DeltaProcessor.java:1504)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1463)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-04-06 16:29:41.226
+!MESSAGE [Working copy] __2F_JSP_5F_EX_2F_WebContent_2F_day0322_2F_chap09_2F_makeCookieUsingBox_2E_jsp.java [in <default> [in src [in JSP_EX]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-04-06 16:29:44.660
+!MESSAGE File not found: '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_userApplicationLog_2E_jsp.java'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_userApplicationLog_2E_jsp.java' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:334)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:208)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:267)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1190)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:652)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1125)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:812)
+	at org.eclipse.jst.ws.jaxws.utils.clazz.ASTUtils.createCompilationUnit(ASTUtils.java:89)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getCompilationUnit(AnnotationInspectorImpl.java:659)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getSpecificAnnotationFromMember(AnnotationInspectorImpl.java:591)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.inspectType(AnnotationInspectorImpl.java:183)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleChangedContentCompilationUnit(OnEventModelSynchronizer.java:310)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleReconcileEvent(OnEventModelSynchronizer.java:119)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.elementChanged(OnEventModelSynchronizer.java:72)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fireReconcileDelta(DeltaProcessor.java:1504)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1463)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2016-04-06 16:29:44.660
+!MESSAGE Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_userApplicationLog_2E_jsp.java' does not exist.
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-04-06 16:29:46.278
+!MESSAGE File not found: '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0318_2F_viewHeader_5F_list_2E_jsp.java'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0318_2F_viewHeader_5F_list_2E_jsp.java' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:334)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:208)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:267)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1190)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:652)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1125)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:812)
+	at org.eclipse.jst.ws.jaxws.utils.clazz.ASTUtils.createCompilationUnit(ASTUtils.java:89)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getCompilationUnit(AnnotationInspectorImpl.java:659)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getSpecificAnnotationFromMember(AnnotationInspectorImpl.java:591)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.inspectType(AnnotationInspectorImpl.java:183)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.AbstractModelSynchronizer.processCompilationUnit(AbstractModelSynchronizer.java:116)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleAddedCompilationUnit(OnEventModelSynchronizer.java:354)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:278)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:302)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:302)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleChangedProject(OnEventModelSynchronizer.java:176)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.elementChanged(OnEventModelSynchronizer.java:86)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2016-04-06 16:29:46.279
+!MESSAGE Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0318_2F_viewHeader_5F_list_2E_jsp.java' does not exist.
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-04-06 16:29:48.249
+!MESSAGE File not found: '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_chap07_2F_infoSub_2E_jsp.java'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_chap07_2F_infoSub_2E_jsp.java' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:334)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:208)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:267)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1190)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:652)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1125)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:812)
+	at org.eclipse.jst.ws.jaxws.utils.clazz.ASTUtils.createCompilationUnit(ASTUtils.java:89)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getCompilationUnit(AnnotationInspectorImpl.java:659)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getSpecificAnnotationFromMember(AnnotationInspectorImpl.java:591)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.inspectType(AnnotationInspectorImpl.java:183)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.AbstractModelSynchronizer.processCompilationUnit(AbstractModelSynchronizer.java:116)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleAddedCompilationUnit(OnEventModelSynchronizer.java:354)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:278)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:302)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.recursevilyHandleCompilationUnits(OnEventModelSynchronizer.java:302)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleChangedProject(OnEventModelSynchronizer.java:176)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.elementChanged(OnEventModelSynchronizer.java:86)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2016-04-06 16:29:48.251
+!MESSAGE Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_chap07_2F_infoSub_2E_jsp.java' does not exist.
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-04-06 16:29:48.651
+!MESSAGE File not found: '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_readResourceUsingApplication_2E_jsp.java'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_readResourceUsingApplication_2E_jsp.java' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:334)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:208)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:267)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1190)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:652)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1125)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:812)
+	at org.eclipse.jst.ws.jaxws.utils.clazz.ASTUtils.createCompilationUnit(ASTUtils.java:89)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getCompilationUnit(AnnotationInspectorImpl.java:659)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.getSpecificAnnotationFromMember(AnnotationInspectorImpl.java:591)
+	at org.eclipse.jst.ws.jaxws.utils.internal.annotations.impl.AnnotationInspectorImpl.inspectType(AnnotationInspectorImpl.java:183)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleChangedContentCompilationUnit(OnEventModelSynchronizer.java:310)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.handleReconcileEvent(OnEventModelSynchronizer.java:119)
+	at org.eclipse.jst.ws.jaxws.dom.runtime.persistence.sync.OnEventModelSynchronizer.elementChanged(OnEventModelSynchronizer.java:72)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fireReconcileDelta(DeltaProcessor.java:1504)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1463)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2016-04-06 16:29:48.651
+!MESSAGE Resource '/JSP_EX/src/__2F_JSP_5F_EX_2F_WebContent_2F_day0321_2F_readResourceUsingApplication_2E_jsp.java' does not exist.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 16:54:18.154
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 17:06:33.156
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.epp.logging.aeri.ui 2 22 2016-04-06 17:06:33.199
+!MESSAGE The notification timed out. Version: 1.0.1.v20150913-0716
+!STACK 0
+org.eclipse.epp.internal.logging.aeri.ui.l10n.Logs$LogTraceException
+	at org.eclipse.epp.internal.logging.aeri.ui.l10n.Logs$LogTraceException.newTrace(Logs.java:382)
+	at org.eclipse.epp.internal.logging.aeri.ui.l10n.Logs.log(Logs.java:134)
+	at org.eclipse.epp.internal.logging.aeri.ui.l10n.Logs.log(Logs.java:126)
+	at org.eclipse.epp.internal.logging.aeri.ui.ReportingController.isNotificationInProgress(ReportingController.java:263)
+	at org.eclipse.epp.internal.logging.aeri.ui.ReportingController.sendOrNotify(ReportingController.java:162)
+	at org.eclipse.epp.internal.logging.aeri.ui.ReportingController.on(ReportingController.java:150)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:314)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at org.eclipse.epp.internal.logging.aeri.ui.log.LogListener.logging(LogListener.java:121)
+	at org.eclipse.core.internal.runtime.RuntimeLog.logToListeners(RuntimeLog.java:161)
+	at org.eclipse.core.internal.runtime.PlatformLogWriter.logged(PlatformLogWriter.java:103)
+	at org.eclipse.osgi.internal.log.ExtendedLogReaderServiceFactory.safeLogged(ExtendedLogReaderServiceFactory.java:88)
+	at org.eclipse.osgi.internal.log.ExtendedLogReaderServiceFactory.logPrivileged(ExtendedLogReaderServiceFactory.java:217)
+	at org.eclipse.osgi.internal.log.ExtendedLogReaderServiceFactory.log(ExtendedLogReaderServiceFactory.java:189)
+	at org.eclipse.osgi.internal.log.ExtendedLogServiceFactory.log(ExtendedLogServiceFactory.java:65)
+	at org.eclipse.osgi.internal.log.ExtendedLogServiceImpl.log(ExtendedLogServiceImpl.java:87)
+	at org.eclipse.osgi.internal.log.LoggerImpl.log(LoggerImpl.java:54)
+	at org.eclipse.core.internal.runtime.PlatformLogWriter.logging(PlatformLogWriter.java:44)
+	at org.eclipse.core.internal.runtime.RuntimeLog.log(RuntimeLog.java:97)
+	at org.eclipse.core.internal.jobs.JobManager.endJob(JobManager.java:701)
+	at org.eclipse.core.internal.jobs.WorkerPool.endJob(WorkerPool.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:72)
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 17:06:47.919
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 17:07:05.626
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+!SESSION 2016-04-06 17:10:20.818 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.488
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.525
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.535
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.536
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.537
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.538
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.538
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.539
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.539
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.540
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.540
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.541
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.541
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.542
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.542
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.543
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.543
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.544
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:10:39.544
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-06 17:10:43.538
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 17:12:33.482
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 17:12:48.038
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 17:12:59.807
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:17:34.579
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:17:34.580
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:17:40.233
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:17:40.234
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:30:02.336
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:30:02.338
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:50:05.980
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:50:05.980
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:50:05.981
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:50:10.524
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:50:10.524
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 17:50:10.525
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 18:11:04.995
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 18:11:04.996
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 18:11:04.996
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 19:19:08.989
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 19:19:08.990
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 19:19:08.990
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 19:24:27.254
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 19:24:41.170
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 19:25:03.553
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 19:27:31.012
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 19:31:17.541
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 19:31:17.541
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 19:31:17.542
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 19:31:41.119
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 19:31:41.120
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 19:31:41.120
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 19:39:14.615
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.jst.jee 4 0 2016-04-06 19:42:18.796
+!MESSAGE [Working copy] __2F_MVC_5F_EX_2F_WebContent_2F_mvc_2F_simpleView_2E_jsp.java [in <default> [in src [in MVC_EX]]] does not exist
+!STACK 1
+Java Model Exception: Java Model Status [[Working copy] __2F_MVC_5F_EX_2F_WebContent_2F_mvc_2F_simpleView_2E_jsp.java [in <default> [in src [in MVC_EX]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:566)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:247)
+	at org.eclipse.jdt.internal.core.SourceRefElement.generateInfos(SourceRefElement.java:107)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:316)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:302)
+	at org.eclipse.jdt.internal.core.SourceType.isClass(SourceType.java:591)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.analyzeCompilationUnit(WebAnnotationReader.java:126)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.processAddedCompilationUnit(WebAnnotationReader.java:257)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:543)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:562)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:519)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:527)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProjectChildren(AbstractAnnotationModelProvider.java:501)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProject(AbstractAnnotationModelProvider.java:492)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.internalPostChange(AbstractAnnotationModelProvider.java:457)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.elementChanged(AbstractAnnotationModelProvider.java:448)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-04-06 19:42:18.798
+!MESSAGE [Working copy] __2F_MVC_5F_EX_2F_WebContent_2F_mvc_2F_simpleView_2E_jsp.java [in <default> [in src [in MVC_EX]]] does not exist
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 19:47:29.196
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 19:56:22.092
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 19:57:37.992
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 19:57:47.473
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-04-06 19:58:03.802
+!MESSAGE Server Tomcat v8.0 Server at localhost failed to start.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 20:28:43.112
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 20:52:38.311
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 20:52:38.321
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 20:52:42.830
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 20:52:42.831
+!MESSAGE loading file 'commandHandlerURI.properties'
+!SESSION 2016-04-06 21:16:42.921 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.789
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.884
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.885
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.887
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.888
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.889
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.890
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.891
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.892
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.893
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.894
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.896
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.897
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.897
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.898
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.899
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.899
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.900
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.900
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.903
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.905
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.906
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-06 21:17:20.906
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-06 21:17:26.484
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-04-06 21:19:14.580
+!MESSAGE An internal error occurred during: "Launching client".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:71)
