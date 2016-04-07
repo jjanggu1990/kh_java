@@ -14,7 +14,10 @@ public class ListAction implements CommandAction {//글목록 처리
         HttpServletResponse response)throws Throwable {
        
         String pageNum = request.getParameter("pageNum");//페이지 번호
-
+        
+        String select = request.getParameter("select");
+        System.out.println(select);
+        String search_val = request.getParameter("search_val");
         if (pageNum == null) {
             pageNum = "1";
         }
@@ -27,12 +30,26 @@ public class ListAction implements CommandAction {//글목록 처리
 
         List articleList = null;
         BoardDBBean dbPro = BoardDBBean.getInstance();//DB연동
-        count = dbPro.getArticleCount();//전체 글의 수
-       
-        if (count > 0) {
-            articleList = dbPro.getArticles(startRow, endRow);//현재 페이지에 해당하는 글 목록
-        } else {
-            articleList = Collections.EMPTY_LIST;
+
+        if(select==null || select.equals("")){
+        	request.setAttribute("status", "normal");
+        	count = dbPro.getArticleCount();//전체 글의 수
+
+        	if (count > 0) {
+        		articleList = dbPro.getArticles(startRow, endRow);//현재 페이지에 해당하는 글 목록
+        	} else {
+        		articleList = Collections.EMPTY_LIST;
+        	}
+        }else{
+        	request.setAttribute("status", "search");
+        	request.setAttribute("select", select);
+        	request.setAttribute("search_val", search_val);
+        	count = dbPro.getsearchArticleCount(select, search_val);
+        	if (count > 0) {
+        		articleList = dbPro.getArticles(startRow, endRow, select,search_val);//현재 페이지에 해당하는 글 목록
+        	} else {
+        		articleList = Collections.EMPTY_LIST;
+        	}
         }
 
 	number=count-(currentPage-1)*pageSize;//글목록에 표시할 글번호

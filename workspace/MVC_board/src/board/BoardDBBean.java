@@ -152,6 +152,9 @@ public class BoardDBBean {
 			}else if(select.equals("subject")){
 				pstmt = conn.prepareStatement("select count(*) from board where subject LIKE ? ");
 				pstmt.setString(1, "%"+search+"%");
+			}else if(select.equals("content")){
+				pstmt = conn.prepareStatement("select count(*) from board where content LIKE ? ");
+				pstmt.setString(1, "%"+search+"%");
 			}
 			rs = pstmt.executeQuery();
 			
@@ -256,6 +259,14 @@ public class BoardDBBean {
 			            "from (select num,writer,email,subject,passwd,reg_date,ref,re_step,re_level,content,ip,readcount,rownum r " +
 			            "from (select num,writer,email,subject,passwd,reg_date,ref,re_step,re_level,content,ip,readcount " +
 			            "from board where subject like ? order by ref desc, re_step asc) order by ref desc, re_step asc ) where r >= ? and r <= ? ");
+				pstmt.setString(1, "%"+search+"%");
+				pstmt.setInt(2, start);
+				pstmt.setInt(3, end);
+			}else if(select.equals("content")){
+				pstmt = conn.prepareStatement("select num,writer,email,subject,passwd,reg_date,ref,re_step,re_level,content,ip,readcount,r  " +
+			            "from (select num,writer,email,subject,passwd,reg_date,ref,re_step,re_level,content,ip,readcount,rownum r " +
+			            "from (select num,writer,email,subject,passwd,reg_date,ref,re_step,re_level,content,ip,readcount " +
+			            "from board where content like ? order by ref desc, re_step asc) order by ref desc, re_step asc ) where r >= ? and r <= ? ");
 				pstmt.setString(1, "%"+search+"%");
 				pstmt.setInt(2, start);
 				pstmt.setInt(3, end);

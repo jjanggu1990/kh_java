@@ -62,6 +62,24 @@ body,td,a,div,p,pre,input,textarea {font-family:굴림;font-size:9pt;}
        onclick="document.location.href='/MVC_board/MVC/list.do?pageNum=${pageNum}'">
     </td>
   </tr>
+  <tr>
+  	<td align="center" bgcolor="${value_c}" >
+  		댓글 입력
+  	</td>
+  	<td colspan ="2" >
+  		<textarea rows="7" cols="40" style="resize:none;"></textarea>
+  	</td>
+  	 
+  	<td align="center" bgcolor="${value_c}">
+  		<div style="width:70px;">
+  		이름<br>
+  		<input style="width:70px;" type="text"/><br>
+  		비밀번호<br>
+  		<input style="width:70px;" type="password"/><br>
+  		<input type="submit" value="댓글입력"/>
+	  	</div>
+  	</td>
+  </tr>
 </table>   
 </form>     
 </body>

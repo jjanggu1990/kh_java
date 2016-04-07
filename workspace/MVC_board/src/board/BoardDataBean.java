@@ -15,6 +15,13 @@ public class BoardDataBean {
     private int ref;
     private int re_step;
     private int re_level;
+    private String search_val;
+	public String getSearch_val() {
+		return search_val;
+	}
+	public void setSearch_val(String search_val) {
+		this.search_val = search_val;
+	}
 	public int getNum() {
 		return num;
 	}

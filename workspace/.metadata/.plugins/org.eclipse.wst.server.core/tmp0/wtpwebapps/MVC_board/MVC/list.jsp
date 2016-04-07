@@ -75,29 +75,70 @@
 </table>
 </c:if>
 
-<c:if test="${count > 0}">
-   <c:set var="pageCount" value="${count / pageSize + ( count % pageSize == 0 ? 0 : 1)}"/>
-   <c:set var="pageBlock" value="${10}"/>
-   <fmt:parseNumber var="result" value="${currentPage / 10}" integerOnly="true" />
-   <c:set var="startPage" value="${result * 10 + 1}" />
-   <c:set var="endPage" value="${startPage + pageBlock-1}"/>
-   <c:if test="${endPage > pageCount}">
-        <c:set var="endPage" value="${pageCount}"/>
-   </c:if>
-         
-   <c:if test="${startPage > 10}">
-        <a href="/MVC_board/MVC/list.do?pageNum=${startPage - 10 }">[이전]</a>
-   </c:if>
 
-   <c:forEach var="i" begin="${startPage}" end="${endPage}">
-       <a href="/MVC_board/MVC/list.do?pageNum=${i}">[${i}]</a>
-   </c:forEach>
+<c:if test="${status=='normal'}">
+			<c:if test="${count > 0}">
+				<c:set var="pageCount"
+					value="${count / pageSize + ( count % pageSize == 0 ? 0 : 1)}" />
+				<c:set var="pageBlock" value="${10}" />
+				<fmt:parseNumber var="result" value="${currentPage / 10}"
+					integerOnly="true" />
+				<c:set var="startPage" value="${result * 10 + 1}" />
+				<c:set var="endPage" value="${startPage + pageBlock-1}" />
+				<c:if test="${endPage > pageCount}">
+					<c:set var="endPage" value="${pageCount}" />
+				</c:if>
 
-   <c:if test="${endPage < pageCount}">
-        <a href="/MVC_board/MVC/list.do?pageNum=${startPage + 10}">[다음]</a>
-   </c:if>
+				<c:if test="${startPage > 10}">
+					<a href="/MVC_board/MVC/list.do?pageNum=${startPage - 10 }">[이전]</a>
+				</c:if>
+
+				<c:forEach var="i" begin="${startPage}" end="${endPage}">
+					<a href="/MVC_board/MVC/list.do?pageNum=${i}">[${i}]</a>
+				</c:forEach>
+
+				<c:if test="${endPage < pageCount}">
+					<a href="/MVC_board/MVC/list.do?pageNum=${startPage + 10}">[다음]</a>
+				</c:if>
+			</c:if>
 </c:if>
 
+<c:if test="${status=='search'}">
+			<c:if test="${count > 0}">
+				<c:set var="pageCount"
+					value="${count / pageSize + ( count % pageSize == 0 ? 0 : 1)}" />
+				<c:set var="pageBlock" value="${10}" />
+				<fmt:parseNumber var="result" value="${currentPage / 10}"
+					integerOnly="true" />
+				<c:set var="startPage" value="${result * 10 + 1}" />
+				<c:set var="endPage" value="${startPage + pageBlock-1}" />
+				<c:if test="${endPage > pageCount}">
+					<c:set var="endPage" value="${pageCount}" />
+				</c:if>
+
+				<c:if test="${startPage > 10}">
+					<a href="/MVC_board/MVC/list.do?pageNum=${startPage - 10 }&select=${select}&search_val=${search_val}">[이전]</a>
+				</c:if>
+
+				<c:forEach var="i" begin="${startPage}" end="${endPage}">
+					<a href="/MVC_board/MVC/list.do?pageNum=${i}&select=${select}&search_val=${search_val}">[${i}]</a>
+				</c:forEach>
+
+				<c:if test="${endPage < pageCount}">
+					<a href="/MVC_board/MVC/list.do?pageNum=${startPage + 10}&select=${select}&search_val=${search_val}">[다음]</a>
+				</c:if>
+			</c:if>
+</c:if>
+
+<form method="post" name="search" action="/MVC_board/MVC/list.do">
+	<select action="list.jsp" name = "select" >
+		<option name = "select_1" value="subject">제목</option>
+		<option name = "select_2"  value="writer">작성자</option>
+		<option name = "select_3"  value="content">내용</option>
+	</select>
+	<input type="text" name="search_val">
+	<input type="submit" value="검색">
+</form>
 </center>
 </body>
 </html>
