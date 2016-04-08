@@ -76,7 +76,7 @@ body,td,a,div,p,pre,input,textarea {font-family:굴림;font-size:9pt;}
   		<input style="width:70px;" type="text"/><br>
   		비밀번호<br>
   		<input style="width:70px;" type="password"/><br>
-  		<input type="submit" value="댓글입력"/>
+  		<input type="submit" value="댓글입력" onclick="windows.location='/MVC_board/MVC/content.do' "/>
 	  	</div>
   	</td>
   </tr>

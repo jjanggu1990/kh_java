@@ -14,10 +14,10 @@ public class ListAction implements CommandAction {//글목록 처리
         HttpServletResponse response)throws Throwable {
        
         String pageNum = request.getParameter("pageNum");//페이지 번호
-        
         String select = request.getParameter("select");
-        System.out.println(select);
+        System.out.println("ListAction.java ::: "+select);
         String search_val = request.getParameter("search_val");
+        System.out.println("ListAction.java ::: "+search_val);
         if (pageNum == null) {
             pageNum = "1";
         }
@@ -31,7 +31,7 @@ public class ListAction implements CommandAction {//글목록 처리
         List articleList = null;
         BoardDBBean dbPro = BoardDBBean.getInstance();//DB연동
 
-        if(select==null || select.equals("")){
+        if(search_val==null || search_val.equals("")){
         	request.setAttribute("status", "normal");
         	count = dbPro.getArticleCount();//전체 글의 수
 
@@ -45,6 +45,7 @@ public class ListAction implements CommandAction {//글목록 처리
         	request.setAttribute("select", select);
         	request.setAttribute("search_val", search_val);
         	count = dbPro.getsearchArticleCount(select, search_val);
+        	System.out.println("ListAction.java : count ::: " + count);
         	if (count > 0) {
         		articleList = dbPro.getArticles(startRow, endRow, select,search_val);//현재 페이지에 해당하는 글 목록
         	} else {

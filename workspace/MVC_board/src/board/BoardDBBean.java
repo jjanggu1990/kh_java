@@ -145,7 +145,9 @@ public class BoardDBBean {
 		
 		try{
 			conn = getConnection();
-			
+/*			pstmt=conn.prepareStatement("select count(*) from board where ? LIKE ? ");
+			pstmt.setString(1, select);
+			pstmt.setString(2, "%"+search+"%");*/
 			if(select.equals("writer")){
 				pstmt = conn.prepareStatement("select count(*) from board where writer LIKE ? ");
 				pstmt.setString(1, "%"+search+"%");
@@ -245,6 +247,16 @@ public class BoardDBBean {
 		try{
 			conn = getConnection();
 			
+			/*pstmt = conn.prepareStatement( "select num,writer,email,subject,passwd,reg_date,ref,re_step,re_level,content,ip,readcount,r  " +
+		            "from (select num,writer,email,subject,passwd,reg_date,ref,re_step,re_level,content,ip,readcount,rownum r " +
+		            "from (select num,writer,email,subject,passwd,reg_date,ref,re_step,re_level,content,ip,readcount " +
+		            "from board where ? like ? order by ref desc, re_step asc) order by ref desc, re_step asc ) where r >= ? and r <= ? ");
+			System.out.println("BoardDBBean.java"+select);
+			pstmt.setString(1, select);
+			pstmt.setString(2, "%"+search+"%");
+			pstmt.setInt(3, start);
+			pstmt.setInt(4, end);
+			*/
 			if(select.equals("writer")){
 				//System.out.println("writer");
 				pstmt = conn.prepareStatement( "select num,writer,email,subject,passwd,reg_date,ref,re_step,re_level,content,ip,readcount,r  " +

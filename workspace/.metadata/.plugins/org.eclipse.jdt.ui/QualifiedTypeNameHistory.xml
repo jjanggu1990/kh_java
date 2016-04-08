@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="java_0211.event.WindowEventHandler"/>
-<fullyQualifiedTypeName name="javax.swing.border.Border"/>
 <fullyQualifiedTypeName name="javax.swing.border.EmptyBorder"/>
 <fullyQualifiedTypeName name="javax.swing.border.LineBorder"/>
 <fullyQualifiedTypeName name="java.awt.Color"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="mvc.command.NullHandler"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="action.CommandAction"/>
+<fullyQualifiedTypeName name="board.BoardDataBean"/>
+<fullyQualifiedTypeName name="board.BoardDBBean"/>
+<fullyQualifiedTypeName name="org.apache.catalina.connector.Request"/>
 </qualifiedTypeNameHistroy>

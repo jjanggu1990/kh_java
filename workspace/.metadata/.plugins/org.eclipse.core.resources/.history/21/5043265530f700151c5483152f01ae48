@@ -1,5 +1,0 @@
-package jdbc.loader;
-
-public class ConnectionProvider {
-
-}
