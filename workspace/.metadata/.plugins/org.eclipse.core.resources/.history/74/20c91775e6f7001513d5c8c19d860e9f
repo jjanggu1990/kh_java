@@ -1,7 +1,0 @@
-package pds.service;
-
-import java.sql.*;
-
-public class IncreaseDownloadCountService {
-	private static IncreaseDownloadCountService instance = new IncreaseDownloadCountService();
-}

@@ -59,12 +59,13 @@ public class ControllerUsingURI extends HttpServlet {
         }
     }
 
+    @Override
     public void doGet(//get방식의 서비스 메소드
         HttpServletRequest request, HttpServletResponse response)
     throws ServletException, IOException {
         requestPro(request, response);
     }
-
+    @Override
     protected void doPost(//post방식의 서비스 메소드
         HttpServletRequest request, HttpServletResponse response)
     throws ServletException, IOException {

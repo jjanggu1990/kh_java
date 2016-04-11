@@ -1,0 +1,14 @@
+/logon/main.go=action.MainAction
+/logon/inputForm.go=action.InputFormAction
+/logon/inputPro.go=action.InputProAction
+/logon/modify.go=action.ModifyAction
+/logon/modifyForm.go=action.ModifyFormAction
+/logon/modifyPro.go=action.ModifyProAction
+/logon/deleteForm.go=action.DeleteFormAction
+/logon/deletePro.go=action.DeleteProAction
+/logon/confirmId.go=action.ConfirmIdAction
+/logon/loginPro.go=action.LoginProAction
+/logon/loginForm.go=action.LoginFormAction
+/logon/logon.go=action.LogonAction
+/logon/logout.go=action.LogoutAction
+/logon/zipcheck.go=action.ZipcheckAction
