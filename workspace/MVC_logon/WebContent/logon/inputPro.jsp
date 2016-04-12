@@ -1,7 +1,7 @@
 <%@ page contentType="text/html; charset=UTF-8" %>
 <%@ page import = "board.LogonDBBean" %>
 <%@ page import = "java.sql.Timestamp" %>
-
+<%-- 
 <% request.setCharacterEncoding("utf-8");%>
 
 <jsp:useBean id="member" class="board.LogonDataBean">
@@ -14,4 +14,4 @@
     manager.insertMember(member);
 
     response.sendRedirect("loginForm.go");
-%>
+%> --%>

@@ -1,6 +1,7 @@
 <%@ page contentType="text/html; charset=UTF-8"%>
 <%@ page import = "board.*" %>
 <%@ include file="color.jsp" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,12 +34,7 @@
 	}
 </script>
 </head>
-<%
-	String id = (String)session.getAttribute("memId");
-	LogonDBBean manager = LogonDBBean.getInstance();
-	LogonDataBean c = manager.getMember(id);
-	try{
-%>
+<c:catch var="ex">
 <body bgcolor="<%=bodyback_c%>">
 <form method="post" action="modifyPro.go" name="userinput" onsubmit="return checkIt()">
 
@@ -58,13 +54,13 @@
 
     	<tr>
       		<td  width="200"> 사용자 ID</td>
-      		<td  width="400"><%=c.getId()%></td>
+      		<td  width="400">${ c.id}</td>
     	</tr>
    
      <tr>
       <td width="200"> 비밀번호</td>
       <td width="400">
-        <input type="password" name="passwd" size="10" maxlength="10" value="<%=c.getPasswd()%>">
+        <input type="password" name="passwd" size="10" maxlength="10" value="${c.passwd }">
       </td>
     <tr> 
     <tr>
@@ -74,58 +70,62 @@
     <tr>
       <td   width="200">사용자 이름</td>
       <td  width="400">
-        <input type="text" name="name" size="15" maxlength="20" value="<%=c.getName()%>">
+        <input type="text" name="name" size="15" maxlength="20" value="${c.name }">
       </td>
     </tr>
     <tr>
       <td width="200">주민등록번호</td>
       <td width="400">
-        <%=c.getJumin1()%>-<%=c.getJumin2()%>
+        ${c.jumin1 }-${c.jumin2 }
       </td>
     </tr>
    <tr>
       <td width="200">E-Mail</td>
       <td width="400">
-		<%if(c.getEmail()==null){%>
+		<c:if test="${c.email==null }">
   		<input type="text" name="email" size="40" maxlength="30" >
-		<%}else{%>
-        <input type="text" name="email" size="40" maxlength="30" value="<%=c.getEmail()%>">
-		<%}%>
+		</c:if>
+		<c:if test="${c.email!=null }">
+        <input type="text" name="email" size="40" maxlength="30" value="${c.email }">
+		</c:if>
       </td>
     </tr>
     <tr>
     	<td width="200">Blog</td>
     	<td width="400">
-    	<%if(c.getBlog()==null){%>
+    	<c:if test="${c.blog ==null }">
+    	
   			<input type="text" name="blog" size="60" maxlength="50" >
-		<%}else{%>
-        	<input type="text" name="blog" size="60" maxlength="50" value="<%=c.getBlog()%>">
-		<%}%>
+		</c:if>
+		<c:if test="${c.blog != null }">
+        	<input type="text" name="blog" size="60" maxlength="50" value="${c.blog }">
+		</c:if>
       	</td>
     </tr>   
 	<tr> 
        	<td width="200">우편번호</td>
-       	<td> 
-		<%if(c.getZipcode()==null){%>
+       	<td>
+       	<c:if test="${c.zipcode==null }"> 
 			<input type="text" name="zipcode" size="7" readonly>
-		<%}else{%>
-          	<input type="text" name="zipcode" size="7" readonly value="<%=c.getZipcode()%>">
-		<%}%>
+		</c:if>
+		<c:if test="${c.zipcode !=null }">
+          	<input type="text" name="zipcode" size="7" readonly value="${c.zipcode }">
+		</c:if>
        		<input type="button" value="우편번호찾기" onClick="zipCheck()">우편번호를 검색하세요.
 		</td>
     </tr>
     <tr> 
        <td>주소</td>
-       <%
-       if(c.getAddress()==null){%>
+       <c:if test = "${c.address == null }">
       	<td>
       	<input type="text" name="address" size="70">      주소를 적어 주세요.
       	</td>
-      	<%}else{ %>
+      	</c:if>
+      	<c:if test="${c.address != null }">
       	<td>
-      	<input type="text" name ="address" size="70" value="<%=c.getAddress() %>"> 
+      	<input type="text" name ="address" size="70" value="${c.address }"> 
       	</td>
-      	<%} %>
+      	</c:if>
     </tr>  
     <tr>
       	<td colspan="2" align="center" bgcolor="<%=value_c%>">
@@ -136,5 +136,5 @@
   </table>
 </form>
 </body>
-<%} catch (Exception e){} %>
+</c:catch>
 </html>

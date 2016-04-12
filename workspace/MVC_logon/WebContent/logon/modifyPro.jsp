@@ -1,7 +1,7 @@
 <%@ page contentType="text/html; charset=UTF-8"%>
 <%@ page import="board.LogonDBBean" %>
 <%@ include file="color.jsp" %>
-<% request.setCharacterEncoding("utf-8"); %>
+<%-- <% request.setCharacterEncoding("utf-8"); %>
 <jsp:useBean id="member" class="board.LogonDataBean">
 	<jsp:setProperty name="member" property="*"/>
 </jsp:useBean>
@@ -10,7 +10,7 @@
 	member.setId(id);
 	LogonDBBean manager = LogonDBBean.getInstance();
 	manager.updateMember(member);
-%>
+%> --%>
 <link href="style.css" rel="stylesheet" type="text/css">
 
 <!DOCTYPE html>

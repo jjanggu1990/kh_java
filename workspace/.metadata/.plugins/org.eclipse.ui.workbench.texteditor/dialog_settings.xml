@@ -9,22 +9,24 @@
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="getsea" key="selection"/>
+		<item value="InputFormAction" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="getsea"/>
-			<item value="load"/>
-			<item value="servlet"/>
-			<item value="회수"/>
-			<item value="AddPdsItemService"/>
-			<item value="request"/>
-			<item value="type"/>
-			<item value="savePath"/>
+			<item value="InputFormAction"/>
+			<item value="LoginProAction"/>
+			<item value="action"/>
+			<item value="dongCh"/>
+			<item value="dongch"/>
+			<item value="go"/>
+			<item value="jsp"/>
+			<item value="MVC_Logon_Project"/>
 		</list>
 		<list key="replacehistory">
+			<item value="go"/>
+			<item value="logon"/>
 			<item value="dpcp2"/>
 			<item value="utf-8"/>
 			<item value="Data3"/>

@@ -13704,3 +13704,101 @@ org.eclipse.wst.xml.core.internal.document.StructuredDocumentRegionManagementExc
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+!SESSION 2016-04-12 16:16:14.378 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.384
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.649
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.665
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.681
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:16:36.681
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-12 16:16:43.462
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:17:09.418
+!MESSAGE properties removing for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:17:27.065
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-12 16:17:27.081
+!MESSAGE loading file 'commandHandlerURI.properties'
