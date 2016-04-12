@@ -1,6 +1,6 @@
 <%@ page contentType="text/html; charset=UTF-8"%>
 <%@ page import = "board.LogonDBBean" %>
-<%@ include file="./color.jsp"%>
+<%@ include file="color.jsp"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head><title>ID 중복확인</title>
