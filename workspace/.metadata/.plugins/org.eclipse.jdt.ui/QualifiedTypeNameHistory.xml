@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.awt.event.WindowListener"/>
-<fullyQualifiedTypeName name="java.awt.event.WindowAdapter"/>
 <fullyQualifiedTypeName name="javax.swing.JMenuItem"/>
 <fullyQualifiedTypeName name="javax.swing.JMenuBar"/>
 <fullyQualifiedTypeName name="javax.swing.JMenu"/>
@@ -17,7 +15,6 @@
 <fullyQualifiedTypeName name="oracle.jdbc.driver.OracleDriver"/>
 <fullyQualifiedTypeName name="test.vo.MembersVo"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.io.Resources"/>
-<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactoryBuilder"/>
 <fullyQualifiedTypeName name="borad_Project.BoardDBBean"/>
 <fullyQualifiedTypeName name="java.sql.Timestamp"/>
 <fullyQualifiedTypeName name="board.CommentDataBean"/>
@@ -56,8 +53,11 @@
 <fullyQualifiedTypeName name="org.apache.catalina.connector.Request"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
-<fullyQualifiedTypeName name="board.LogonDataBean"/>
-<fullyQualifiedTypeName name="board.LogonDBBean"/>
 <fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactoryBuilder"/>
+<fullyQualifiedTypeName name="board.LogonDBBean"/>
+<fullyQualifiedTypeName name="board.LogonDataBean"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
 <fullyQualifiedTypeName name="board.ZipcodeBean"/>
 </qualifiedTypeNameHistroy>

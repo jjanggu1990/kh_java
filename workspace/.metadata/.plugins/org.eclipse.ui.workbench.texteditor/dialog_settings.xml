@@ -9,22 +9,23 @@
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="InputFormAction" key="selection"/>
+		<item value="board.LogonDataBean" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="board.logonDataBean"/>
+			<item value="factory ok"/>
+			<item value="factory"/>
+			<item value="getlist"/>
+			<item value="get"/>
 			<item value="InputFormAction"/>
 			<item value="LoginProAction"/>
 			<item value="action"/>
-			<item value="dongCh"/>
-			<item value="dongch"/>
-			<item value="go"/>
-			<item value="jsp"/>
-			<item value="MVC_Logon_Project"/>
 		</list>
 		<list key="replacehistory">
+			<item value="board.LogonDataBean"/>
 			<item value="go"/>
 			<item value="logon"/>
 			<item value="dpcp2"/>
@@ -32,7 +33,6 @@
 			<item value="Data3"/>
 			<item value="Data2"/>
 			<item value="Data1"/>
-			<item value="Car3"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
