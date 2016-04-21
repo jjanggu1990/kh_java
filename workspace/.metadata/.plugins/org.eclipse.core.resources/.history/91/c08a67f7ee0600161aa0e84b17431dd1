@@ -1,0 +1,25 @@
+package board;
+
+import java.sql.Date;
+import java.sql.Timestamp;
+
+public class LogonDataBean {
+	private String email;
+	private String passwd;
+	private String age;
+	private String nickname;
+	private String hashtag;
+	private Timestamp date;
+	
+	
+
+	public Timestamp getReg_date() {
+		return reg_date;
+	}
+	public void setReg_date(Timestamp reg_date) {
+		this.reg_date = reg_date;
+	}
+
+	
+	
+}

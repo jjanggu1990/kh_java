@@ -1,0 +1,31 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Insert title here</title>
+function checkIt(){
+		var userinput = eval("document.userinput");
+		if(!userinput.id.value){
+			alert("ID 를 입력하세요.");
+			return false;
+		}
+		if(!userinput.passwd.value){
+			alert("비밀번호를 입력하세요.");
+			return false;
+		}
+		return true;
+	}
+</head>
+<body>
+회원가입 폼
+
+<form method="post" action="SignupPro.hash" name="userinput" onSubmit="return checkIt()">
+
+
+
+</form>
+
+
+
+</body>
+</html>

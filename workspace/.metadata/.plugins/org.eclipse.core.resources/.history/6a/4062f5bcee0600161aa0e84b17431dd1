@@ -1,0 +1,22 @@
+package action;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class SignupProAction implements CommandAction {
+
+	@Override
+	public String requestPro(HttpServletRequest request, HttpServletResponse response) throws Throwable {
+		
+		String email = request.getParameter("email");
+		String passwd = request.getParameter("passwd");
+		String passwd1 = request.getParameter("passwd1");
+		String age = request.getParameter("age");
+		String email = request.getParameter("email");
+		
+		
+		
+		return "/userpage/SignupPro.jsp";
+	}
+	
+}

@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="CleanDialogSettings">
 		<item value="500" key="DIALOG_WIDTH"/>
-		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
 		<item value="378" key="DIALOG_HEIGHT"/>
 		<item value="390" key="DIALOG_X_ORIGIN"/>
 		<item value="240" key="DIALOG_Y_ORIGIN"/>
@@ -10,11 +10,15 @@
 	<section name="ExternalProjectImportWizard">
 		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
-		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\eclipse-jee-mars-1-win32-x86_64\INTERHASH"/>
+			<item value="F:\git_test\INTERHASH"/>
 			<item value=""/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\Users\user2\Desktop\INTERHASH.zip"/>
 			<item value="C:\Users\user2\Downloads\MVC_LOGON (1).zip"/>
 			<item value="C:\Users\user2\Desktop\MVC_LOGON.zip"/>
 		</list>

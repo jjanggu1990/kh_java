@@ -1,0 +1,13 @@
+/main.go=action.MainAction
+/inputForm.go=action.InputFormAction
+/inputPro.go=action.InputProAction
+/modify.go=action.ModifyAction
+/modifyForm.go=action.ModifyFormAction
+/modifyPro.go=action.ModifyProAction
+/deleteForm.go=action.DeleteFormAction
+/deletePro.go=action.DeleteProAction
+/loginPro.go=action.LoginProAction
+/loginForm.go=action.LoginFormAction
+/logon.go=action.LogonAction
+/logout.go=action.LogoutAction
+/zipcheck.go=action.ZipcheckAction

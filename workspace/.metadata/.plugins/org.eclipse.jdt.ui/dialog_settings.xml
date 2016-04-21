@@ -115,8 +115,8 @@
 		<item value="540" key="DIALOG_WIDTH"/>
 		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
 		<item value="695" key="DIALOG_HEIGHT"/>
-		<item value="371" key="DIALOG_X_ORIGIN"/>
-		<item value="28" key="DIALOG_Y_ORIGIN"/>
+		<item value="654" key="DIALOG_X_ORIGIN"/>
+		<item value="173" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="DialogBounds_GenerateToStringDialog">
 		<item value="516" key="DIALOG_WIDTH"/>
