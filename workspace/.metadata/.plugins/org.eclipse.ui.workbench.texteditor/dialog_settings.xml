@@ -9,20 +9,20 @@
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="board.LogonDataBean" key="selection"/>
+		<item value="" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="domain"/>
+			<item value="writeform"/>
+			<item value="wrap"/>
+			<item value="border"/>
+			<item value="board_img"/>
+			<item value="tag"/>
 			<item value="board.logonDataBean"/>
 			<item value="factory ok"/>
-			<item value="factory"/>
-			<item value="getlist"/>
-			<item value="get"/>
-			<item value="InputFormAction"/>
-			<item value="LoginProAction"/>
-			<item value="action"/>
 		</list>
 		<list key="replacehistory">
 			<item value="board.LogonDataBean"/>
@@ -39,7 +39,7 @@
 		<item value="261" key="DIALOG_WIDTH"/>
 		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
 		<item value="381" key="DIALOG_HEIGHT"/>
-		<item value="899" key="DIALOG_X_ORIGIN"/>
-		<item value="103" key="DIALOG_Y_ORIGIN"/>
+		<item value="664" key="DIALOG_X_ORIGIN"/>
+		<item value="252" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>

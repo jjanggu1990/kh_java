@@ -1537,3 +1537,2689 @@ Java Model Exception: Java Model Status [[Working copy] __2F_INTERHASH_2F_WebCon
 
 !ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 16:34:17.201
 !MESSAGE properties removing for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 16:38:13.064
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 16:38:13.064
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 16:38:13.065
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 16:38:13.065
+!MESSAGE loading file 'db.properties'
+!SESSION 2016-04-21 17:16:50.344 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.098
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.104
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.105
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.107
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.107
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.108
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.109
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.110
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.111
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.112
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.113
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.114
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.115
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.115
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.117
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.117
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.118
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.119
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.119
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.120
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.120
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.121
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.121
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.122
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.123
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.123
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.124
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.124
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.125
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.125
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.126
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.126
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 17:17:07.127
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-21 17:17:07.525
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 19:39:05.843
+!MESSAGE properties removing for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 19:40:00.156
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 19:40:01.026
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 19:40:01.026
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 19:40:01.027
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 19:40:01.027
+!MESSAGE loading file 'db.properties'
+
+!ENTRY org.eclipse.jst.jee 4 0 2016-04-21 19:48:35.174
+!MESSAGE [Working copy] __2F_INTERHASH_2F_WebContent_2F_fixpage_2F_nav_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist
+!STACK 1
+Java Model Exception: Java Model Status [[Working copy] __2F_INTERHASH_2F_WebContent_2F_fixpage_2F_nav_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:566)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:247)
+	at org.eclipse.jdt.internal.core.SourceRefElement.generateInfos(SourceRefElement.java:107)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:316)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:302)
+	at org.eclipse.jdt.internal.core.SourceType.getAnnotations(SourceType.java:200)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.createJavaeeObject(WebAnnotationReader.java:152)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.analyzeCompilationUnit(WebAnnotationReader.java:145)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.processAddedCompilationUnit(WebAnnotationReader.java:257)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:543)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:562)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:519)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:527)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProjectChildren(AbstractAnnotationModelProvider.java:501)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProject(AbstractAnnotationModelProvider.java:492)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.internalPostChange(AbstractAnnotationModelProvider.java:457)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.elementChanged(AbstractAnnotationModelProvider.java:448)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-04-21 19:48:35.176
+!MESSAGE [Working copy] __2F_INTERHASH_2F_WebContent_2F_fixpage_2F_nav_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 19:51:16.429
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 19:51:16.430
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 19:51:16.430
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-21 19:51:16.430
+!MESSAGE loading file 'db.properties'
+!SESSION 2016-04-22 15:39:17.568 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.804
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.819
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.845
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.846
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.847
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.848
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.848
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.849
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.850
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.851
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.852
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.852
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.853
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.853
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.854
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.854
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.855
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.855
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.856
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.857
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.858
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.858
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.859
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.859
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.860
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.861
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.861
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.862
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.863
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.863
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.864
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.864
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 15:39:35.865
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-22 15:39:40.314
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 17:06:56.239
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 17:06:56.240
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 17:06:56.241
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 17:06:56.241
+!MESSAGE loading file 'db.properties'
+!SESSION 2016-04-22 19:14:45.000 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-22 19:17:23.175
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.800
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.869
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.870
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.872
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.873
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.875
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.875
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.876
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.877
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.879
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.880
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.881
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.881
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.882
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.883
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.884
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.885
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.886
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.887
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.887
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.888
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.888
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.889
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.890
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.890
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.891
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.892
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.892
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.893
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.893
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.894
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.895
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:17:23.897
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:18:07.656
+!MESSAGE properties removing for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:19:11.149
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:19:11.512
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:19:11.513
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:19:11.513
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-22 19:19:11.514
+!MESSAGE loading file 'db.properties'
+!SESSION 2016-04-25 15:25:58.989 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-25 15:26:53.159
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.272
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.274
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.275
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.287
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.287
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.288
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.289
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.290
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.291
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.291
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.375
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.376
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.378
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.428
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.428
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.494
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.496
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.496
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.497
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.515
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.515
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.516
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.516
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.517
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.518
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.519
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.519
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.580
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.581
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.582
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.582
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.583
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:53.583
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:54.518
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:54.526
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:54.529
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 15:26:54.530
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 16:21:04.914
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 16:21:04.917
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 16:21:04.917
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 16:21:04.918
+!MESSAGE loading file 'db.properties'
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-04-25 16:21:51.639
+!MESSAGE An internal error occurred during: "Launching client".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:71)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 16:41:44.185
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 16:41:44.186
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 16:41:44.186
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 16:41:44.187
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 17:09:41.598
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 17:09:41.599
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 17:09:41.599
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 17:09:41.599
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 17:10:28.114
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 17:10:28.115
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 17:10:28.116
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 17:10:28.117
+!MESSAGE loading file 'db.properties'
+
+!ENTRY org.eclipse.ui 4 0 2016-04-25 17:44:33.144
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.html.ui.internal.hyperlink.AnchorHyperlinkDetector.detectHyperlinks(AnchorHyperlinkDetector.java:441)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:80)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:261)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:469)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:212)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4362)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4180)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3769)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1127)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:654)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:598)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 20:01:53.723
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 20:01:53.732
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 20:01:53.733
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 20:01:53.733
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 20:06:51.569
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 20:06:51.570
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 20:06:51.571
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-25 20:06:51.572
+!MESSAGE loading file 'db.properties'
+!SESSION 2016-04-26 15:36:49.577 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-26 15:37:07.247
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.174
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.177
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.272
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.273
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.273
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.274
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.300
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.301
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.302
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.303
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.304
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.304
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.305
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.305
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.306
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.306
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.307
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.307
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.308
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.308
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.309
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.309
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.310
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.313
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.313
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.314
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.314
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.315
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.315
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.316
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.316
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.317
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-04-26 15:37:09.317
+!MESSAGE properties loading for project 'webproject'
+!SESSION 2016-05-03 16:19:18.677 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.192
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.240
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.241
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.243
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.243
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.247
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.247
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.248
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.249
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.253
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.254
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.254
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.256
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.257
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.258
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.261
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.262
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.263
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.263
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.264
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.265
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.266
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.266
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.268
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.272
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.273
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.273
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.274
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.275
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.275
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.276
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.277
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:39.280
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-05-03 16:19:40.733
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:41.115
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:41.116
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:41.117
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:19:41.117
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:20:44.698
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:20:44.700
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:20:44.701
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 16:20:44.701
+!MESSAGE loading file 'db.properties'
+
+!ENTRY org.eclipse.jst.jee 4 0 2016-05-03 16:20:52.744
+!MESSAGE [Working copy] __2F_INTERHASH_2F_WebContent_2F_userpage_2F_ContentView_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist
+!STACK 1
+Java Model Exception: Java Model Status [[Working copy] __2F_INTERHASH_2F_WebContent_2F_userpage_2F_ContentView_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:566)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:247)
+	at org.eclipse.jdt.internal.core.SourceRefElement.generateInfos(SourceRefElement.java:107)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:316)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:302)
+	at org.eclipse.jdt.internal.core.SourceType.getAnnotations(SourceType.java:200)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.createJavaeeObject(WebAnnotationReader.java:152)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.analyzeCompilationUnit(WebAnnotationReader.java:145)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.processAddedCompilationUnit(WebAnnotationReader.java:257)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:543)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:562)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:519)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:527)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProjectChildren(AbstractAnnotationModelProvider.java:501)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProject(AbstractAnnotationModelProvider.java:492)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.internalPostChange(AbstractAnnotationModelProvider.java:457)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.elementChanged(AbstractAnnotationModelProvider.java:448)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-05-03 16:20:52.770
+!MESSAGE [Working copy] __2F_INTERHASH_2F_WebContent_2F_userpage_2F_ContentView_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 4 2016-05-03 16:25:45.912
+!MESSAGE Exception occurred during problem detection:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package action;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.sql.Date;
+import java.sql.Timestamp;
+import java.text.SimpleDateFormat;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.oreilly.servlet.MultipartRequest;
+import com.oreilly.servlet.multipart.DefaultFileRenamePolicy;
+
+import board.ContentDBBean;
+import board.ContentDataBean;
+import board.PhotoDataBean;
+
+public class ContentInputProAction implements CommandAction {
+
+	@Override
+	public String requestPro(HttpServletRequest request, HttpServletResponse response) throws Throwable {
+		 request.setCharacterEncoding("UTF-8");
+		 
+		    // 10Mbyte 제한
+		    int maxSize  = 1024*1024*10;        
+		 
+		    // 웹서버 컨테이너 경로
+		    String root = request.getSession().getServletContext().getRealPath("/");
+		 
+		    // 파일 저장 경로(ex : /home/tour/web/ROOT/upload)
+		    String savePath = root + "upload"+"\\";
+		 
+		    // 업로드 파일명
+		    String uploadFile = "";
+		 
+		    // 실제 저장할 파일명
+		    String newFileName = "";
+		 
+		 
+		 
+		    int read = 0;
+		    byte[] buf = new byte[1024];
+		    FileInputStream fin = null;
+		    FileOutputStream fout = null;
+		    long currentTime = System.currentTimeMillis();  
+		    SimpleDateFormat simDf = new SimpleDateFormat("yyyyMMddHHmmss");  
+		    String content="";
+		    String conhash="";
+		    String nickname="";
+		    String email="";
+		    String ip="";
+		    try{
+		 
+		        MultipartRequest multi = new MultipartRequest(request, savePath, maxSize, "UTF-8", new DefaultFileRenamePolicy());
+		         System.out.println("저장경로 : " + savePath);
+		        // 전송받은 parameter의 한글깨짐 방지
+		        content = multi.getParameter("content");
+		      //  content = new String(content.getBytes("8859_1"), "UTF-8");
+		        System.out.println("사진 content:: " + content);
+		        conhash = multi.getParameter("tag");
+		       // conhash = new String(conhash.getBytes("8859_1"), "UTF-8");
+		        System.out.println("사진 conhash:: "+conhash);
+		        
+		        nickname=(String)request.getSession().getAttribute("nickName");
+		        //nickname=new String(nickname.getBytes("8859_1"),"UTF-8");
+		        
+		        email=(String)request.getSession().getAttribute("memId");
+		       // email=new String(email.getBytes("8859_1"),"UTF-8");
+		        
+		        
+		        // 파일업로드
+		       
+		        uploadFile = multi.getFilesystemName("conphoto");
+		        System.out.println("파일업로드 성공? "+multi.getFilesystemName("conphoto"));
+		        // 실제 저장할 파일명(ex : 20140819151221.zip)
+		        //newFileName = simDf.format(new Date(currentTime)) +"."+ uploadFile.substring(uploadFile.lastIndexOf(".")+1);
+		 
+		         
+		        // 업로드된 파일 객체 생성
+		        File oldFile = new File(savePath + uploadFile);
+		 
+		         
+		        // 실제 저장될 파일 객체 생성
+		       // File newFile = new File(savePath +"//"+ newFileName);
+		         
+		 
+		        // 파일명 rename
+		        //if(!oldFile.renameTo(newFile)){
+		 
+		            // rename이 되지 않을경우 강제로 파일을 복사하고 기존파일은 삭제
+		 
+		            buf = new byte[1024];
+		            fin = new FileInputStream(oldFile);
+		            fout = new FileOutputStream(oldFile);
+		            read = 0;
+		            while((read=fin.read(buf,0,buf.length))!=-1){
+		                fout.write(buf, 0, read);
+		            }
+		            fin.close();
+		            fout.close();
+		            oldFile.delete();
+		       // }   
+		            
+		           ContentDataBean content_obj = new ContentDataBean();
+		           content_obj.setContent(content);
+		           content_obj.setConip(request.getRemoteAddr());
+		           content_obj.setConnickname(nickname);
+		           content_obj.setEmail(email);
+		           content_obj.setConhash(conhash);
+		           content_obj.setConcreateddate(new Timestamp(System.currentTimeMillis()));
+		           content_obj.setConmodifieddate(new Timestamp(System.currentTimeMillis()));
+		           
+		           
+		           PhotoDataBean photo_obj = new PhotoDataBean();
+		           
+		           photo_obj.setEmail((String)request.getSession().getAttribute("memId"));
+		           photo_obj.setPhotoname(uploadFile);
+		           photo_obj.setRealpath(savePath + uploadFile);
+		           System.out.println(oldFile.getAbsolutePath():::"+oldFile.getAbsolutePath());
+		           photo_obj.setPhotosize(oldFile.length()+"KB");
+		           System.out.println("사진 용량 :: "+oldFile.length());
+		           
+		           ContentDBBean bean =  ContentDBBean.getInstance();
+		           bean.insertContent(content_obj, photo_obj);
+		 
+		    }catch(Exception e){
+		        e.printStackTrace();
+		    }
+		ContentDataBean bean = new ContentDataBean();
+		
+		
+		return "Board.hash";
+	}
+	
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.copy(ReferenceExpression.java:140)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.cachedResolvedCopy(ReferenceExpression.java:810)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.isCompatibleWith(ReferenceExpression.java:1067)
+	at org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding.isCompatibleWith(PolyTypeBinding.java:37)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4760)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4727)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:768)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:700)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod0(Scope.java:1645)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod(Scope.java:1546)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:2822)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.findMethodBinding(MessageSend.java:898)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:712)
+	at org.eclipse.jdt.internal.compiler.ast.Expression.resolve(Expression.java:1020)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:641)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:309)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:551)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1188)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1301)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:590)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1023)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:197)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:194)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1085)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:171)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:90)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:729)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:789)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1250)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:151)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:104)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2016-05-03 16:25:46.052
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 1
+Java Model Exception: java.lang.NullPointerException
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:249)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:194)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1085)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:171)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:90)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:729)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:789)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1250)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:151)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:104)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.copy(ReferenceExpression.java:140)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.cachedResolvedCopy(ReferenceExpression.java:810)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.isCompatibleWith(ReferenceExpression.java:1067)
+	at org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding.isCompatibleWith(PolyTypeBinding.java:37)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4760)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4727)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:768)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:700)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod0(Scope.java:1645)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod(Scope.java:1546)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:2822)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.findMethodBinding(MessageSend.java:898)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:712)
+	at org.eclipse.jdt.internal.compiler.ast.Expression.resolve(Expression.java:1020)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:641)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:309)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:551)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1188)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1301)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:590)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1023)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:197)
+	... 19 more
+Caused by: java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.copy(ReferenceExpression.java:140)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.cachedResolvedCopy(ReferenceExpression.java:810)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.isCompatibleWith(ReferenceExpression.java:1067)
+	at org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding.isCompatibleWith(PolyTypeBinding.java:37)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4760)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4727)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:768)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:700)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod0(Scope.java:1645)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod(Scope.java:1546)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:2822)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.findMethodBinding(MessageSend.java:898)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:712)
+	at org.eclipse.jdt.internal.compiler.ast.Expression.resolve(Expression.java:1020)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:641)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:309)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:551)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1188)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1301)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:590)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1023)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:197)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:194)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1085)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:171)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:90)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:729)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:789)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1250)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:151)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:104)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1005 2016-05-03 16:25:46.055
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.copy(ReferenceExpression.java:140)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.cachedResolvedCopy(ReferenceExpression.java:810)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.isCompatibleWith(ReferenceExpression.java:1067)
+	at org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding.isCompatibleWith(PolyTypeBinding.java:37)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4760)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4727)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:768)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:700)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod0(Scope.java:1645)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod(Scope.java:1546)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:2822)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.findMethodBinding(MessageSend.java:898)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:712)
+	at org.eclipse.jdt.internal.compiler.ast.Expression.resolve(Expression.java:1020)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:641)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:309)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:551)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1188)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1301)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:590)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1023)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:197)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:194)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1085)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:171)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:90)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:729)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:789)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1250)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:151)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:104)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1005 2016-05-03 16:25:46.055
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.copy(ReferenceExpression.java:140)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.cachedResolvedCopy(ReferenceExpression.java:810)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.isCompatibleWith(ReferenceExpression.java:1067)
+	at org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding.isCompatibleWith(PolyTypeBinding.java:37)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4760)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4727)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:768)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:700)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod0(Scope.java:1645)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod(Scope.java:1546)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:2822)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.findMethodBinding(MessageSend.java:898)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:712)
+	at org.eclipse.jdt.internal.compiler.ast.Expression.resolve(Expression.java:1020)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:641)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:309)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:551)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1188)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1301)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:590)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1023)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:197)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:194)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1085)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:171)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:90)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:729)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:789)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1250)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:151)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:104)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2016-05-03 16:25:46.114
+!MESSAGE Error in JDT Core during reconcile
+!STACK 1
+Java Model Exception: java.lang.NullPointerException
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:249)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:194)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1085)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:171)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:90)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:729)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:789)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1250)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:151)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:104)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.copy(ReferenceExpression.java:140)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.cachedResolvedCopy(ReferenceExpression.java:810)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.isCompatibleWith(ReferenceExpression.java:1067)
+	at org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding.isCompatibleWith(PolyTypeBinding.java:37)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4760)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4727)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:768)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:700)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod0(Scope.java:1645)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod(Scope.java:1546)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:2822)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.findMethodBinding(MessageSend.java:898)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:712)
+	at org.eclipse.jdt.internal.compiler.ast.Expression.resolve(Expression.java:1020)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:641)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:309)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:551)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1188)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1301)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:590)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1023)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:197)
+	... 19 more
+Caused by: java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.copy(ReferenceExpression.java:140)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.cachedResolvedCopy(ReferenceExpression.java:810)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.isCompatibleWith(ReferenceExpression.java:1067)
+	at org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding.isCompatibleWith(PolyTypeBinding.java:37)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4760)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4727)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:768)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:700)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod0(Scope.java:1645)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod(Scope.java:1546)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:2822)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.findMethodBinding(MessageSend.java:898)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:712)
+	at org.eclipse.jdt.internal.compiler.ast.Expression.resolve(Expression.java:1020)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:641)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:309)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:551)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1188)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1301)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:590)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1023)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:197)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:194)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1085)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:171)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:90)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:729)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:789)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1250)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:151)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:104)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1005 2016-05-03 16:25:46.114
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.copy(ReferenceExpression.java:140)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.cachedResolvedCopy(ReferenceExpression.java:810)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.isCompatibleWith(ReferenceExpression.java:1067)
+	at org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding.isCompatibleWith(PolyTypeBinding.java:37)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4760)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4727)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:768)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:700)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod0(Scope.java:1645)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod(Scope.java:1546)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:2822)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.findMethodBinding(MessageSend.java:898)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:712)
+	at org.eclipse.jdt.internal.compiler.ast.Expression.resolve(Expression.java:1020)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:641)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:309)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:551)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1188)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1301)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:590)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1023)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:197)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:194)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:259)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1085)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:171)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:90)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:729)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:789)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1250)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:126)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:108)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:87)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:151)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:104)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2016-05-03 16:25:47.635
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.copy(ReferenceExpression.java:140)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.cachedResolvedCopy(ReferenceExpression.java:810)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.isCompatibleWith(ReferenceExpression.java:1067)
+	at org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding.isCompatibleWith(PolyTypeBinding.java:37)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4760)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4727)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:768)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:700)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod0(Scope.java:1645)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod(Scope.java:1546)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:2822)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.findMethodBinding(MessageSend.java:898)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:712)
+	at org.eclipse.jdt.internal.compiler.ast.Expression.resolve(Expression.java:1020)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:641)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:309)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:551)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1188)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1301)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:590)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:1215)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:692)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1190)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:812)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider$1.run(ASTProvider.java:535)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.createAST(ASTProvider.java:528)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:471)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:128)
+	at org.eclipse.recommenders.rcp.utils.JdtUtils.findAstNodeFromEditorSelection(JdtUtils.java:597)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService.handleSelectionInEditor(JavaElementSelectionService.java:110)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService.access$1(JavaElementSelectionService.java:105)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService$1.run(JavaElementSelectionService.java:82)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2016-05-03 16:25:47.644
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.copy(ReferenceExpression.java:140)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.cachedResolvedCopy(ReferenceExpression.java:810)
+	at org.eclipse.jdt.internal.compiler.ast.ReferenceExpression.isCompatibleWith(ReferenceExpression.java:1067)
+	at org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding.isCompatibleWith(PolyTypeBinding.java:37)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4760)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.parameterCompatibilityLevel(Scope.java:4727)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:768)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.computeCompatibleMethod(Scope.java:700)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod0(Scope.java:1645)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.findMethod(Scope.java:1546)
+	at org.eclipse.jdt.internal.compiler.lookup.Scope.getMethod(Scope.java:2822)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.findMethodBinding(MessageSend.java:898)
+	at org.eclipse.jdt.internal.compiler.ast.MessageSend.resolveType(MessageSend.java:712)
+	at org.eclipse.jdt.internal.compiler.ast.Expression.resolve(Expression.java:1020)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolveStatements(AbstractMethodDeclaration.java:641)
+	at org.eclipse.jdt.internal.compiler.ast.MethodDeclaration.resolveStatements(MethodDeclaration.java:309)
+	at org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration.resolve(AbstractMethodDeclaration.java:551)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1188)
+	at org.eclipse.jdt.internal.compiler.ast.TypeDeclaration.resolve(TypeDeclaration.java:1301)
+	at org.eclipse.jdt.internal.compiler.ast.CompilationUnitDeclaration.resolve(CompilationUnitDeclaration.java:590)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:1215)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.resolve(CompilationUnitResolver.java:692)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1190)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:812)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider$1.run(ASTProvider.java:535)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.createAST(ASTProvider.java:528)
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:471)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:128)
+	at org.eclipse.recommenders.rcp.utils.JdtUtils.findAstNodeFromEditorSelection(JdtUtils.java:597)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService.handleSelectionInEditor(JavaElementSelectionService.java:110)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService.access$1(JavaElementSelectionService.java:105)
+	at org.eclipse.recommenders.internal.rcp.JavaElementSelectionService$1.run(JavaElementSelectionService.java:82)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 20:03:34.063
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 20:03:34.082
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 20:03:34.083
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-03 20:03:34.085
+!MESSAGE loading file 'db.properties'
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-05-03 21:27:03.498
+!MESSAGE An internal error occurred during: "LabelEventJob".
+!STACK 0
+org.eclipse.swt.SWTException: Device is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4491)
+	at org.eclipse.swt.SWT.error(SWT.java:4406)
+	at org.eclipse.swt.SWT.error(SWT.java:4377)
+	at org.eclipse.swt.widgets.Display.error(Display.java:1258)
+	at org.eclipse.swt.widgets.Display.asyncExec(Display.java:709)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.fireLabelEvent(GitLightweightDecorator.java:706)
+	at org.eclipse.egit.ui.internal.decorators.LabelEventJob.run(GitLightweightDecorator.java:776)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-05-03 21:27:05.933
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2016-05-04 15:34:29.719 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-05-04 15:35:11.986
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:37.949
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.184
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.185
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.188
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.188
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.189
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.309
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.310
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.310
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.311
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.312
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.312
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.314
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.315
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.315
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.316
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.384
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.385
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.387
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.390
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.391
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.393
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.397
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.398
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.399
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.399
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.400
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.400
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.401
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.401
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.402
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.402
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 15:35:38.402
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-05-04 15:35:39.864
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:28:54.597
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:28:54.601
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:28:54.601
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:28:54.602
+!MESSAGE loading file 'db.properties'
+!SESSION 2016-05-04 19:36:57.777 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-05-04 19:37:23.960
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.006
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.024
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.042
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.043
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.044
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.044
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.045
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.045
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.046
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.047
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.047
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.048
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.048
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.048
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.049
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.049
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.050
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.051
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.052
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.076
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.077
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.078
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.078
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.079
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.079
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.080
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.080
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.081
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.081
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.082
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.082
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.082
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 19:37:25.083
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.jst.jee 4 0 2016-05-04 19:39:12.456
+!MESSAGE [Working copy] __2F_INTERHASH_2F_WebContent_2F_userpage_2F_UpdateCommentPro_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist
+!STACK 1
+Java Model Exception: Java Model Status [[Working copy] __2F_INTERHASH_2F_WebContent_2F_userpage_2F_UpdateCommentPro_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:566)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:247)
+	at org.eclipse.jdt.internal.core.SourceRefElement.generateInfos(SourceRefElement.java:107)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:316)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:302)
+	at org.eclipse.jdt.internal.core.SourceType.getAnnotations(SourceType.java:200)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.createJavaeeObject(WebAnnotationReader.java:152)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.analyzeCompilationUnit(WebAnnotationReader.java:145)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.processAddedCompilationUnit(WebAnnotationReader.java:257)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:543)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:562)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:519)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:527)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProjectChildren(AbstractAnnotationModelProvider.java:501)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProject(AbstractAnnotationModelProvider.java:492)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.internalPostChange(AbstractAnnotationModelProvider.java:457)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.elementChanged(AbstractAnnotationModelProvider.java:448)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-05-04 19:39:12.458
+!MESSAGE [Working copy] __2F_INTERHASH_2F_WebContent_2F_userpage_2F_UpdateCommentPro_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist
+
+!ENTRY org.eclipse.jst.jee 4 0 2016-05-04 19:39:13.642
+!MESSAGE [Working copy] __2F_INTERHASH_2F_WebContent_2F_userpage_2F_FindPasswordPro_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist
+!STACK 1
+Java Model Exception: Java Model Status [[Working copy] __2F_INTERHASH_2F_WebContent_2F_userpage_2F_FindPasswordPro_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:566)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:247)
+	at org.eclipse.jdt.internal.core.SourceRefElement.generateInfos(SourceRefElement.java:107)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:579)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:316)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:302)
+	at org.eclipse.jdt.internal.core.SourceType.getAnnotations(SourceType.java:200)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.createJavaeeObject(WebAnnotationReader.java:152)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.analyzeCompilationUnit(WebAnnotationReader.java:145)
+	at org.eclipse.jst.jee.model.internal.WebAnnotationReader.processAddedCompilationUnit(WebAnnotationReader.java:257)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:543)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessCompilationUnits(AbstractAnnotationModelProvider.java:562)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:519)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.recursevilyProcessPackages(AbstractAnnotationModelProvider.java:527)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProjectChildren(AbstractAnnotationModelProvider.java:501)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.processChangedProject(AbstractAnnotationModelProvider.java:492)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.internalPostChange(AbstractAnnotationModelProvider.java:457)
+	at org.eclipse.jst.jee.model.internal.common.AbstractAnnotationModelProvider.elementChanged(AbstractAnnotationModelProvider.java:448)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:770)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5409)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:528)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1159)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:63)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:74)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:47)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-05-04 19:39:13.642
+!MESSAGE [Working copy] __2F_INTERHASH_2F_WebContent_2F_userpage_2F_FindPasswordPro_2E_jsp.java [in <default> [in src [in INTERHASH]]] does not exist
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-04 20:41:42.940
+!MESSAGE properties loading for project 'TEST'
+!SESSION 2016-05-12 15:56:51.950 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-05-12 15:57:08.683
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.482
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.487
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.488
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.492
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.494
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.497
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.562
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.562
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.584
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.585
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.597
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.598
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.599
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.600
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.600
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.601
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.602
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.603
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.603
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.620
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.621
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.622
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.622
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.623
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.624
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.624
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.625
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.654
+!MESSAGE properties loading for project 'TEST'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.654
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.654
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.655
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.658
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.659
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:57:09.662
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:58:20.732
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:58:20.734
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:58:20.734
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 15:58:20.735
+!MESSAGE loading file 'db.properties'
+!SESSION 2016-05-12 17:21:51.393 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-05-12 17:22:46.141
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.030
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.032
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.033
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.034
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.034
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.035
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.058
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.115
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.129
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.130
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.196
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.198
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.198
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.279
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.279
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.322
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.365
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.366
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.434
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.483
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.483
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.485
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.485
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.486
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.487
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.488
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.488
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.505
+!MESSAGE properties loading for project 'TEST'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.505
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.506
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.506
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.507
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.508
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-12 17:22:48.510
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-05-12 19:13:40.645
+!MESSAGE An internal error occurred during: "Launching client".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:71)
+!SESSION 2016-05-27 16:56:08.780 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:40.956
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.049
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.050
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.051
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.082
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.083
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.113
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.178
+!MESSAGE loading file 'db.properties'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-05-27 16:56:41.191
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.328
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.329
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.415
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.418
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.418
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.538
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.538
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.561
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.596
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.596
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.597
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.638
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.639
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.640
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.641
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.642
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.643
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.643
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.644
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.741
+!MESSAGE properties loading for project 'TEST'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.742
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.743
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.743
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.744
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.744
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 16:56:41.744
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.epp.logging.aeri.ui 2 19 2016-05-27 16:57:20.017
+!MESSAGE Updating the index from remote failed. Version: 1.0.1.v20150913-0716
+!STACK 0
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.ZipInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at com.google.common.io.ByteStreams.copy(ByteStreams.java:169)
+	at com.google.common.io.ByteSink.writeFrom(ByteSink.java:134)
+	at org.eclipse.epp.internal.logging.aeri.ui.utils.Zips.unzip(Zips.java:83)
+	at org.eclipse.epp.internal.logging.aeri.ui.log.ProblemsDatabaseUpdateJob.run(ProblemsDatabaseUpdateJob.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2016-05-27 17:41:44.041 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-05-27 17:42:15.339
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:16.980
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:16.992
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:16.993
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:16.995
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:16.995
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:16.996
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.605
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.605
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.638
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.639
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.654
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.655
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.655
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.656
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.656
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.697
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.803
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.805
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.844
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.911
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.912
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.912
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.913
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.913
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.914
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.914
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:17.915
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:18.037
+!MESSAGE properties loading for project 'TEST'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:18.038
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:18.040
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:18.040
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:18.040
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:18.041
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 17:42:18.041
+!MESSAGE properties loading for project 'webproject'
+!SESSION 2016-05-27 20:16:13.140 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.077
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.188
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.233
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.234
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.235
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.236
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.276
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.277
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.423
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.425
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.528
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.529
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.532
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.632
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.632
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.669
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.671
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.673
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.712
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.761
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.762
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.763
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.763
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.764
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.765
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.766
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.766
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.813
+!MESSAGE properties loading for project 'TEST'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.813
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.814
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.814
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.815
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.815
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-27 20:16:47.816
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-05-27 20:16:48.431
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-05-27 20:26:01.014
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2016-05-30 19:45:51.321 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_76-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-05-30 19:46:01.556
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:42.593
+!MESSAGE properties loading for project 'DB'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:42.698
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:42.707
+!MESSAGE properties loading for project 'ExJava'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:42.708
+!MESSAGE properties loading for project 'FILEUPLOAD'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:42.708
+!MESSAGE properties loading for project 'INTERHASH'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:42.709
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:42.745
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.082
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.111
+!MESSAGE properties loading for project 'JSP_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.112
+!MESSAGE loading file 'message.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.115
+!MESSAGE loading file 'message_ko.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.116
+!MESSAGE properties loading for project 'Login'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.116
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.118
+!MESSAGE properties loading for project 'MVC_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.118
+!MESSAGE loading file 'commandHandler.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.184
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.186
+!MESSAGE properties loading for project 'MVC_board'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.187
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.189
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.189
+!MESSAGE properties loading for project 'MVC_logon'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.190
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.191
+!MESSAGE properties loading for project 'MVC_logon_1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.192
+!MESSAGE loading file 'commandHandlerURI.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.192
+!MESSAGE loading file 'db.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.193
+!MESSAGE properties loading for project 'RemoteSystemsTempFiles'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.194
+!MESSAGE properties loading for project 'Servers2'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.194
+!MESSAGE loading file 'catalina.properties'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.223
+!MESSAGE properties loading for project 'TEST'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.223
+!MESSAGE properties loading for project 'Tiles_EX'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.224
+!MESSAGE properties loading for project 'board_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.224
+!MESSAGE properties loading for project 'guestbook'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.224
+!MESSAGE properties loading for project 'logon_Project'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.225
+!MESSAGE properties loading for project 'testjsp'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-05-30 19:46:43.225
+!MESSAGE properties loading for project 'webproject'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-05-30 19:46:45.275
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\user2'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

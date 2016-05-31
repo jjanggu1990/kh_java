@@ -40,7 +40,7 @@ public class LogonDBBean {
 		try{
 			factory = getFactory();
 			session = factory.openSession();
-			session.insert("logon.insertMember", member);
+			session.insert("login.insertMember", member);
 			
 		}catch(Exception e){
 			e.printStackTrace();

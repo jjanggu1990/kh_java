@@ -1,0 +1,11 @@
+
+public class test {
+	
+	public void t(){
+		System.out.println("aaa");
+	}
+	public static void main(String args[]){
+		test a;
+		a.t();
+	}
+}
